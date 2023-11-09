@@ -1,0 +1,42 @@
+shell tar -cf dmenu.tar dmenu
+shell patch -p1 < dmenu-mousesupport-5.2.diff
+shell tar cf skladiste.tar skladiste
+shell sudo tar skladiste.tar skladiste
+shell tar -cf skladiste.tar skladiste
+shell sudo tar -cf windows.old.tar skladiste
+shell sudo rm windows.old.tar
+rename skladist
+shell sudo tar -cf 
+shell mkdir skladiste
+shell sudo mkdir skladiste
+shell patch -p1 < dwm-blanktags-20210406-67d76bd.diff
+shell tar -cf dwm.sphynx.tar dwm dmenu
+shell patch -p1 -R < dwm.suckless.org_patches_alpha_dwm-alpha-20230401-348f655.diff
+shell patch -p1 < dwm-systray-6.4.diff
+shell patch -p1 < dwm-fixborders-6.2.diff
+rename config.h.
+shell tar -cf dwm.tar dwm
+shell patch -p1 -R dwm-blanktags-20210406-67d76bd.diff
+shell patch -p1 -R < dwm-blanktags-20210406-67d76bd.diff
+shell patch -p1 < dwm-activetagindicatorbar-6.2.diff
+rename blocks.h
+rename 
+rename config.
+shell ./install.sh -h
+rename config.h
+rename dmenu
+search 
+search dwm
+rename config.def.h
+shell sudo cp config.def.h config.h
+search .config
+rename config.h.mythen
+shell unxz gnome-professional-solid-40.1-dark.tar.xz
+shell unxz Nextwaita-dark-3.0.tar.xz
+rename Nextwaita-dark-3.0r.tar
+shell tar -xf gnome-professional-solid-40.1-dark.tar
+rename Nextwaita-dark-3.0s.tar
+shell tar -xf Nextwaita-dark-3.0.tar
+delete
+shell sudo make clean install
+search obsidian

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=HDSPConf
+NoDisplay=true
+Comment=Hammerfall DSP control application
+Icon=hdspconf
+Exec=hdspconf
+Actions=
+Categories=AudioVideo;

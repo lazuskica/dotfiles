@@ -1,0 +1,11 @@
+[xfdesktop-version-4.10.3+-rcfile_format]
+4.10.3+=true
+
+[Trash]
+row=10
+col=38
+
+[/home/lazar]
+row=0
+col=16
+

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<channel name="xfce4-panel" version="1.0">
+  <property name="configver" type="int" value="2"/>
+  <property name="panels" type="array">
+    <value type="int" value="3"/>
+    <property name="dark-mode" type="bool" value="true"/>
+    <property name="panel-3" type="empty">
+      <property name="position" type="string" value="p=6;x=2240;y=11"/>
+      <property name="size" type="uint" value="21"/>
+      <property name="plugin-ids" type="array">
+        <value type="int" value="4"/>
+        <value type="int" value="2"/>
+        <value type="int" value="1"/>
+        <value type="int" value="8"/>
+        <value type="int" value="3"/>
+        <value type="int" value="5"/>
+      </property>
+      <property name="position-locked" type="bool" value="true"/>
+      <property name="length" type="double" value="100"/>
+      <property name="length-adjust" type="bool" value="true"/>
+      <property name="nrows" type="uint" value="1"/>
+      <property name="enable-struts" type="bool" value="true"/>
+      <property name="background-style" type="uint" value="0"/>
+      <property name="background-rgba" type="array">
+        <value type="double" value="0.11372549019607843"/>
+        <value type="double" value="0.12549019607843137"/>
+        <value type="double" value="0.12941176470588237"/>
+        <value type="double" value="1"/>
+      </property>
+      <property name="enter-opacity" type="uint" value="100"/>
+      <property name="leave-opacity" type="uint" value="100"/>
+      <property name="icon-size" type="uint" value="0"/>
+      <property name="span-monitors" type="bool" value="false"/>
+    </property>
+  </property>
+  <property name="plugins" type="empty">
+    <property name="plugin-5" type="string" value="showdesktop"/>
+    <property name="plugin-8" type="string" value="separator">
+      <property name="style" type="uint" value="0"/>
+      <property name="expand" type="bool" value="true"/>
+    </property>
+    <property name="plugin-4" type="string" value="whiskermenu">
+      <property name="button-icon" type="string" value="void_bg"/>
+      <property name="launcher-show-description" type="bool" value="false"/>
+      <property name="favorites-in-recent" type="bool" value="true"/>
+      <property name="position-search-alternate" type="bool" value="true"/>
+      <property name="position-categories-alternate" type="bool" value="true"/>
+      <property name="profile-shape" type="int" value="1"/>
+      <property name="show-command-lockscreen" type="bool" value="false"/>
+      <property name="command-switchuser" type="string" value="dm-tool switch-to-greeter"/>
+      <property name="favorites" type="array">
+        <value type="string" value="xfce4-appfinder.desktop"/>
+        <value type="string" value="thunar.desktop"/>
+        <value type="string" value="menulibre-new-launcher.desktop"/>
+        <value type="string" value="gimp.desktop"/>
+        <value type="string" value="xfce4-terminal.desktop"/>
+        <value type="string" value="system-config-printer.desktop"/>
+        <value type="string" value="xsane.desktop"/>
+      </property>
+      <property name="recent" type="array">
+        <value type="string" value="org.qbittorrent.qBittorrent.desktop"/>
+        <value type="string" value="qt5ct.desktop"/>
+        <value type="string" value="gimp.desktop"/>
+        <value type="string" value="xsane.desktop"/>
+        <value type="string" value="xfce4-terminal.desktop"/>
+        <value type="string" value="system-config-printer.desktop"/>
+        <value type="string" value="octoxbps.desktop"/>
+        <value type="string" value="chromium.desktop"/>
+        <value type="string" value="dropbox.desktop"/>
+      </property>
+      <property name="position-profile-alternate" type="bool" value="true"/>
+      <property name="show-button-title" type="bool" value="true"/>
+      <property name="button-title" type="string" value=" Menu "/>
+    </property>
+    <property name="plugin-1" type="string" value="clock">
+      <property name="digital-layout" type="uint" value="2"/>
+      <property name="digital-date-format" type="string" value="%R  %A, %d %B"/>
+      <property name="digital-date-font" type="string" value="BitstromWera Nerd Font Mono Oblique 11"/>
+    </property>
+    <property name="plugin-2" type="string" value="separator">
+      <property name="style" type="uint" value="0"/>
+      <property name="expand" type="bool" value="true"/>
+    </property>
+    <property name="plugin-3" type="string" value="systray">
+      <property name="known-legacy-items" type="array">
+        <value type="string" value="networkmanager applet"/>
+        <value type="string" value="volumeicon"/>
+        <value type="string" value="ethernet network connection “wired connection 1” active"/>
+      </property>
+      <property name="known-items" type="array">
+        <value type="string" value="dropbox"/>
+      </property>
+    </property>
+  </property>
+</channel>

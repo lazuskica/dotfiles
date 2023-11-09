@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=Brave
+Comment=Brave Browser
+Icon=brave
+Exec=/usr/bin/brave
+Actions=
+Categories=Network;WebBrowser;X-XFCE;
+Keywords=program;applications;bookmarks;
+StartupNotify=true

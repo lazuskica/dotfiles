@@ -1,0 +1,19 @@
+<!DOCTYPE Menu PUBLIC "-//freedesktop//DTD Menu 1.0//EN"
+    "http://www.freedesktop.org/standards/menu-spec/menu-1.0.dtd">
+<!-- Do not edit manually - generated and managed by xdg-desktop-menu -->
+<Menu>
+    <Name>Applications</Name>
+<Menu>
+    <Name>xfce-multimedia</Name>
+    <Directory>xfce-multimedia.directory</Directory>
+    <Include>
+        <Filename>echomixer.desktop</Filename>
+        <Filename>envy24control.desktop</Filename>
+        <Filename>hdajackretask.desktop</Filename>
+        <Filename>hdspconf.desktop</Filename>
+        <Filename>hdspmixer.desktop</Filename>
+        <Filename>hwmixvolume.desktop</Filename>
+        <Filename>org.xfce.Parole.desktop</Filename>
+    </Include>
+</Menu>
+</Menu>
