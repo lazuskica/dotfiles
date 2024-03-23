@@ -40,3 +40,8 @@ shell tar -xf Nextwaita-dark-3.0.tar
 delete
 shell sudo make clean install
 search obsidian
+shell sudo mv ~backup.tar .
+shell 
+shell sudo 
+shell sudo cp config.h config.def.h
+shell sudo make cleanq
