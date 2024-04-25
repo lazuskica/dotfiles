@@ -92,7 +92,7 @@ static const Key keys[] = {
 	{ MODKEY,                       XK_Right, focusmon,       {.i = +1 } },
 	{ MODKEY|ShiftMask,             XK_Left,  tagmon,         {.i = -1 } },
 	{ MODKEY|ShiftMask,             XK_Right, tagmon,         {.i = +1 } },
-	{ 0,				XK_F1,	 spawn,	   SHCMD("toggle_kbd.sh | pkill -RTMIN+11 dwmblocks") },
+	{ ShiftMask,			XK_Alt_L, spawn,	   SHCMD("toggle_kbd.sh | pkill -RTMIN+11 dwmblocks") },
 	{ 0,				XK_F2,   spawn,	   SHCMD("pamixer -d 4 | pkill -RTMIN+10 dwmblocks") },
 	{ 0,				XK_F3,   spawn,	   SHCMD("pamixer -i 4 | pkill -RTMIN+10 dwmblocks") },
 	{ 0,				XK_F4,   spawn,	   SHCMD("pamixer -t | pkill -RTMIN+10 dwmblocks") },
