@@ -1,6 +1,6 @@
 #!/bin/sh
 
-picom &
+picom -b &
 dwmblocks &
 dbus-run-session pipewire &
 wireplumber &
