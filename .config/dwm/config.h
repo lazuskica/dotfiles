@@ -1,25 +1,31 @@
 /* See LICENSE file for copyright and license details. */
 
 /* appearance */
-static const unsigned int borderpx  = 1;        /* border pixel of windows */
+static const unsigned int borderpx  = 2;        /* border pixel of windows */
 static const unsigned int snap      = 16;       /* snap pixel */
-static const unsigned int systraypinning = 0;   /* 0: sloppy systray follows selected monitor, >0: pin systray to monitor X */
-static const unsigned int systrayonleft = 0;    /* 0: systray in the right corner, >0: systray on left of status text */
-static const unsigned int systrayspacing = 2;   /* systray spacing */
-static const int systraypinningfailfirst = 1;   /* 1: if pinning fails, display systray on the first monitor, False: display systray on the last monitor*/
-static const int showsystray        = 1;        /* 0 means no systray */
 static const int showbar            = 1;        /* 0 means no bar */
 static const int topbar             = 0;        /* 0 means bottom bar */
+static const unsigned int systraypinning = 0;   /* 0: sloppy systray follows selected monitor, >0: pin systray to monitor X */
+static const unsigned int systrayspacing = 2;   /* systray spacing */
+static const int systraypinningfailfirst = 1;   /* 1: if pinning fails, display systray on the first monitor, False: display systray on the last monitor*/
+static const int showsystray             = 1;   /* 0 means no systray */
 static const char *fonts[]          = { "BitstromWera Nerd Font:size=11.5" };
 static const char dmenufont[]       = "BitstromWera Nerd Font:size=11.5";
 static const char width[]   = "264";
 static const char y_offset[]= "26";
-static const char col_gray[]        = "#242424";
-static const char col_blue[]       = "#8585de";
+static const char col_2[]       = "#202020";
+static const char col_1[]       = "#e0e0e0";
+static const unsigned int baralpha = 0xcf;
+static const unsigned int borderalpha = OPAQUE;
 static const char *colors[][3]      = {
 	/*               fg         bg         border   */
-	[SchemeSel]  = { col_gray, col_blue, col_gray },
-	[SchemeNorm] = { col_blue, col_gray, col_blue },
+	[SchemeSel]  = { col_1, col_2, col_1 },
+	[SchemeNorm] = { col_2, col_1, col_2 },
+};
+static const unsigned int alphas[][3]      = {
+	/*               fg      bg        border     */
+	[SchemeNorm] = { OPAQUE, baralpha, borderalpha },
+	[SchemeSel]  = { OPAQUE, baralpha, borderalpha },
 };
 
 /* tagging */
