@@ -361,3 +361,136 @@
 (N) 2023-10-30T18:49:47 - qBittorrent termination initiated
 (I) 2023-10-30T18:49:47 - UPnP/NAT-PMP support: OFF
 (N) 2023-10-30T18:49:50 - qBittorrent is now ready to exit
+(N) 2024-03-24T11:20:34 - qBittorrent v4.5.4 started
+(N) 2024-03-24T11:20:34 - Using config directory: /home/lazar/.config/qBittorrent
+(N) 2024-03-24T11:20:34 - Trying to listen on the following list of IP addresses: "0.0.0.0:63644,[::]:63644"
+(I) 2024-03-24T11:20:34 - Peer ID: "-qB4540-"
+(I) 2024-03-24T11:20:34 - HTTP User-Agent: "qBittorrent/4.5.4"
+(I) 2024-03-24T11:20:34 - Distributed Hash Table (DHT) support: ON
+(I) 2024-03-24T11:20:34 - Local Peer Discovery support: ON
+(I) 2024-03-24T11:20:34 - Peer Exchange (PeX) support: ON
+(I) 2024-03-24T11:20:34 - Anonymous mode: OFF
+(I) 2024-03-24T11:20:34 - Encryption support: ON
+(I) 2024-03-24T11:20:34 - UPnP/NAT-PMP support: ON
+(I) 2024-03-24T11:20:34 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/63644"
+(I) 2024-03-24T11:20:34 - Successfully listening on IP. IP: "127.0.0.1". Port: "UDP/63644"
+(I) 2024-03-24T11:20:34 - Successfully listening on IP. IP: "192.168.0.23". Port: "TCP/63644"
+(I) 2024-03-24T11:20:34 - Successfully listening on IP. IP: "192.168.0.23". Port: "UDP/63644"
+(I) 2024-03-24T11:20:34 - Successfully listening on IP. IP: "::1". Port: "TCP/63644"
+(I) 2024-03-24T11:20:34 - Successfully listening on IP. IP: "::1". Port: "UDP/63644"
+(I) 2024-03-24T11:20:34 - Successfully listening on IP. IP: "fe80::6d8a:9ff9:1748:22b%enp3s0". Port: "TCP/63644"
+(I) 2024-03-24T11:20:34 - Successfully listening on IP. IP: "fe80::6d8a:9ff9:1748:22b%enp3s0". Port: "UDP/63644"
+(I) 2024-03-24T11:20:34 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sun Oct 1 02:09:28 2023.
+(I) 2024-03-24T11:20:34 - Detected external IP. IP: "188.246.35.186"
+(I) 2024-03-24T11:20:35 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Fri Mar 1 02:21:18 2024.
+(I) 2024-03-24T11:20:35 - Successfully updated IP geolocation database.
+(N) 2024-03-24T11:20:40 - qBittorrent termination initiated
+(I) 2024-03-24T11:20:40 - UPnP/NAT-PMP support: OFF
+(N) 2024-03-24T11:20:40 - qBittorrent is now ready to exit
+(N) 2024-04-11T08:22:41 - qBittorrent v4.5.4 started
+(N) 2024-04-11T08:22:41 - Using config directory: /home/lazar/.config/qBittorrent
+(N) 2024-04-11T08:22:41 - Trying to listen on the following list of IP addresses: "0.0.0.0:63644,[::]:63644"
+(I) 2024-04-11T08:22:41 - Peer ID: "-qB4540-"
+(I) 2024-04-11T08:22:41 - HTTP User-Agent: "qBittorrent/4.5.4"
+(I) 2024-04-11T08:22:41 - Distributed Hash Table (DHT) support: ON
+(I) 2024-04-11T08:22:41 - Local Peer Discovery support: ON
+(I) 2024-04-11T08:22:41 - Peer Exchange (PeX) support: ON
+(I) 2024-04-11T08:22:41 - Anonymous mode: OFF
+(I) 2024-04-11T08:22:41 - Encryption support: ON
+(I) 2024-04-11T08:22:41 - UPnP/NAT-PMP support: ON
+(I) 2024-04-11T08:22:41 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/63644"
+(I) 2024-04-11T08:22:41 - Successfully listening on IP. IP: "127.0.0.1". Port: "UDP/63644"
+(I) 2024-04-11T08:22:41 - Successfully listening on IP. IP: "192.168.0.23". Port: "TCP/63644"
+(I) 2024-04-11T08:22:41 - Successfully listening on IP. IP: "192.168.0.23". Port: "UDP/63644"
+(I) 2024-04-11T08:22:41 - Successfully listening on IP. IP: "::1". Port: "TCP/63644"
+(I) 2024-04-11T08:22:41 - Successfully listening on IP. IP: "::1". Port: "UDP/63644"
+(I) 2024-04-11T08:22:41 - Successfully listening on IP. IP: "fe80::6d8a:9ff9:1748:22b%enp3s0". Port: "TCP/63644"
+(I) 2024-04-11T08:22:41 - Successfully listening on IP. IP: "fe80::6d8a:9ff9:1748:22b%enp3s0". Port: "UDP/63644"
+(I) 2024-04-11T08:22:41 - Successfully listening on IP. IP: "fe80::488c:8ceb:1751:f7b6%enp3s0". Port: "TCP/63644"
+(I) 2024-04-11T08:22:41 - Successfully listening on IP. IP: "fe80::488c:8ceb:1751:f7b6%enp3s0". Port: "UDP/63644"
+(I) 2024-04-11T08:22:41 - Detected external IP. IP: "188.246.35.186"
+(I) 2024-04-11T08:22:41 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Fri Mar 1 02:21:18 2024.
+(I) 2024-04-11T08:22:42 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Apr 1 02:25:20 2024.
+(I) 2024-04-11T08:22:42 - Successfully updated IP geolocation database.
+(N) 2024-04-11T08:23:44 - qBittorrent v4.5.4 started
+(N) 2024-04-11T08:23:44 - Using config directory: /home/lazar/.config/qBittorrent
+(N) 2024-04-11T08:23:44 - qBittorrent termination initiated
+(N) 2024-04-11T08:23:44 - qBittorrent is now ready to exit
+(N) 2024-04-11T08:23:44 - Added new torrent. Torrent: "debian-12.5.0-amd64-netinst.iso"
+(W) 2024-04-11T08:23:46 - Received error message from URL seed. Torrent: "debian-12.5.0-amd64-netinst.iso". URL: "https://cdimage.debian.org/cdimage/archive/12.5.0/amd64/iso-cd/debian-12.5.0-amd64-netinst.iso". Message: "404 Not Found"
+(N) 2024-04-11T08:24:22 - Torrent download finished. Torrent: "debian-12.5.0-amd64-netinst.iso"
+(N) 2024-04-11T08:25:15 - qBittorrent v4.5.4 started
+(N) 2024-04-11T08:25:15 - Using config directory: /home/lazar/.config/qBittorrent
+(N) 2024-04-11T08:25:16 - qBittorrent termination initiated
+(N) 2024-04-11T08:25:16 - qBittorrent is now ready to exit
+(N) 2024-04-11T08:25:16 - Added new torrent. Torrent: "debian-live-12.5.0-amd64-lxqt.iso"
+(W) 2024-04-11T08:25:17 - Received error message from URL seed. Torrent: "debian-live-12.5.0-amd64-lxqt.iso". URL: "https://cdimage.debian.org/cdimage/release/12.5.0-live/iso-hybrid/debian-live-12.5.0-amd64-lxqt.iso". Message: "404 Not Found"
+(W) 2024-04-11T08:25:17 - Received error message from URL seed. Torrent: "debian-live-12.5.0-amd64-lxqt.iso". URL: "https://cdimage.debian.org/cdimage/archive/12.5.0-live/iso-hybrid/debian-live-12.5.0-amd64-lxqt.iso". Message: "404 Not Found"
+(N) 2024-04-11T08:27:58 - Torrent download finished. Torrent: "debian-live-12.5.0-amd64-lxqt.iso"
+(N) 2024-04-11T08:29:16 - Removed torrent. Torrent: "debian-12.5.0-amd64-netinst.iso"
+(N) 2024-04-11T08:29:18 - Removed torrent. Torrent: "debian-live-12.5.0-amd64-lxqt.iso"
+(N) 2024-04-11T08:29:22 - qBittorrent termination initiated
+(I) 2024-04-11T08:29:22 - UPnP/NAT-PMP support: OFF
+(N) 2024-04-11T08:29:22 - qBittorrent is now ready to exit
+(N) 2024-04-11T08:39:05 - qBittorrent v4.5.4 started
+(N) 2024-04-11T08:39:05 - Using config directory: /home/lazar/.config/qBittorrent
+(N) 2024-04-11T08:39:05 - Trying to listen on the following list of IP addresses: "0.0.0.0:63644,[::]:63644"
+(I) 2024-04-11T08:39:05 - Peer ID: "-qB4540-"
+(I) 2024-04-11T08:39:05 - HTTP User-Agent: "qBittorrent/4.5.4"
+(I) 2024-04-11T08:39:05 - Distributed Hash Table (DHT) support: ON
+(I) 2024-04-11T08:39:05 - Local Peer Discovery support: ON
+(I) 2024-04-11T08:39:05 - Peer Exchange (PeX) support: ON
+(I) 2024-04-11T08:39:05 - Anonymous mode: OFF
+(I) 2024-04-11T08:39:05 - Encryption support: ON
+(I) 2024-04-11T08:39:05 - UPnP/NAT-PMP support: ON
+(I) 2024-04-11T08:39:05 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/63644"
+(I) 2024-04-11T08:39:05 - Successfully listening on IP. IP: "127.0.0.1". Port: "UDP/63644"
+(I) 2024-04-11T08:39:05 - Successfully listening on IP. IP: "192.168.0.23". Port: "TCP/63644"
+(I) 2024-04-11T08:39:05 - Successfully listening on IP. IP: "192.168.0.23". Port: "UDP/63644"
+(I) 2024-04-11T08:39:05 - Successfully listening on IP. IP: "::1". Port: "TCP/63644"
+(I) 2024-04-11T08:39:05 - Successfully listening on IP. IP: "::1". Port: "UDP/63644"
+(I) 2024-04-11T08:39:05 - Successfully listening on IP. IP: "fe80::6d8a:9ff9:1748:22b%enp3s0". Port: "TCP/63644"
+(I) 2024-04-11T08:39:05 - Successfully listening on IP. IP: "fe80::6d8a:9ff9:1748:22b%enp3s0". Port: "UDP/63644"
+(I) 2024-04-11T08:39:05 - Successfully listening on IP. IP: "fe80::488c:8ceb:1751:f7b6%enp3s0". Port: "TCP/63644"
+(I) 2024-04-11T08:39:05 - Successfully listening on IP. IP: "fe80::488c:8ceb:1751:f7b6%enp3s0". Port: "UDP/63644"
+(I) 2024-04-11T08:39:05 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Apr 1 02:25:20 2024.
+(I) 2024-04-11T08:39:05 - Detected external IP. IP: "188.246.35.186"
+(N) 2024-04-11T08:39:12 - Added new torrent. Torrent: "debian-live-12.5.0-amd64-lxqt.iso"
+(N) 2024-04-11T08:39:34 - Torrent download finished. Torrent: "debian-live-12.5.0-amd64-lxqt.iso"
+(N) 2024-04-11T08:47:40 - qBittorrent termination initiated
+(I) 2024-04-11T08:47:40 - UPnP/NAT-PMP support: OFF
+(N) 2024-04-11T08:47:42 - qBittorrent is now ready to exit
+(N) 2024-04-18T19:02:45 - qBittorrent v4.5.4 started
+(N) 2024-04-18T19:02:45 - Using config directory: /home/lazar/.config/qBittorrent
+(N) 2024-04-18T19:02:45 - Trying to listen on the following list of IP addresses: "0.0.0.0:63644,[::]:63644"
+(I) 2024-04-18T19:02:45 - Peer ID: "-qB4540-"
+(I) 2024-04-18T19:02:45 - HTTP User-Agent: "qBittorrent/4.5.4"
+(I) 2024-04-18T19:02:45 - Distributed Hash Table (DHT) support: ON
+(I) 2024-04-18T19:02:45 - Local Peer Discovery support: ON
+(I) 2024-04-18T19:02:45 - Peer Exchange (PeX) support: ON
+(I) 2024-04-18T19:02:45 - Anonymous mode: OFF
+(I) 2024-04-18T19:02:45 - Encryption support: ON
+(I) 2024-04-18T19:02:45 - UPnP/NAT-PMP support: ON
+(I) 2024-04-18T19:02:45 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/63644"
+(I) 2024-04-18T19:02:45 - Successfully listening on IP. IP: "127.0.0.1". Port: "UDP/63644"
+(I) 2024-04-18T19:02:45 - Successfully listening on IP. IP: "192.168.0.23". Port: "TCP/63644"
+(I) 2024-04-18T19:02:45 - Successfully listening on IP. IP: "192.168.0.23". Port: "UDP/63644"
+(I) 2024-04-18T19:02:45 - Successfully listening on IP. IP: "::1". Port: "TCP/63644"
+(I) 2024-04-18T19:02:45 - Successfully listening on IP. IP: "::1". Port: "UDP/63644"
+(I) 2024-04-18T19:02:45 - Successfully listening on IP. IP: "fe80::6d8a:9ff9:1748:22b%enp3s0". Port: "TCP/63644"
+(I) 2024-04-18T19:02:45 - Successfully listening on IP. IP: "fe80::6d8a:9ff9:1748:22b%enp3s0". Port: "UDP/63644"
+(I) 2024-04-18T19:02:45 - Successfully listening on IP. IP: "fe80::488c:8ceb:1751:f7b6%enp3s0". Port: "TCP/63644"
+(I) 2024-04-18T19:02:45 - Successfully listening on IP. IP: "fe80::488c:8ceb:1751:f7b6%enp3s0". Port: "UDP/63644"
+(I) 2024-04-18T19:02:45 - Detected external IP. IP: "188.246.35.186"
+(N) 2024-04-18T19:02:45 - Restored torrent. Torrent: "debian-live-12.5.0-amd64-lxqt.iso"
+(I) 2024-04-18T19:02:45 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Apr 1 02:25:20 2024.
+(N) 2024-04-18T19:02:48 - Removed torrent. Torrent: "debian-live-12.5.0-amd64-lxqt.iso"
+(N) 2024-04-18T19:02:51 - Added new torrent. Torrent: "OnlyFans 2023 Janice Griffith And Girthmasterr XXX 1080p MP4-XX"
+(N) 2024-04-18T19:04:03 - Added new torrent. Torrent: "BrazzersExxtra 21 08 29 Janice Griffith Worst Roommate Ever  48"
+(N) 2024-04-18T19:09:50 - Torrent download finished. Torrent: "BrazzersExxtra 21 08 29 Janice Griffith Worst Roommate Ever  48"
+(N) 2024-04-18T19:12:20 - Torrent download finished. Torrent: "OnlyFans 2023 Janice Griffith And Girthmasterr XXX 1080p MP4-XX"
+(N) 2024-04-18T19:43:52 - Removed torrent. Torrent: "BrazzersExxtra 21 08 29 Janice Griffith Worst Roommate Ever  48"
+(N) 2024-04-18T19:43:52 - Removed torrent. Torrent: "OnlyFans 2023 Janice Griffith And Girthmasterr XXX 1080p MP4-XX"
+(N) 2024-04-18T19:43:55 - qBittorrent termination initiated
+(I) 2024-04-18T19:43:55 - UPnP/NAT-PMP support: OFF
+(N) 2024-04-18T19:43:55 - qBittorrent is now ready to exit

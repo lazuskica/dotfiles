@@ -59,6 +59,8 @@
         <value type="string" value="xsane.desktop"/>
       </property>
       <property name="recent" type="array">
+        <value type="string" value="PBE.QOwnNotes.desktop"/>
+        <value type="string" value="st-stm32cubeide-1.15.0.desktop"/>
         <value type="string" value="gparted.desktop"/>
         <value type="string" value="org.clementine_player.Clementine.desktop"/>
         <value type="string" value="org.qbittorrent.qBittorrent.desktop"/>
@@ -67,8 +69,6 @@
         <value type="string" value="xsane.desktop"/>
         <value type="string" value="xfce4-terminal.desktop"/>
         <value type="string" value="system-config-printer.desktop"/>
-        <value type="string" value="octoxbps.desktop"/>
-        <value type="string" value="chromium.desktop"/>
       </property>
       <property name="position-profile-alternate" type="bool" value="true"/>
       <property name="show-button-title" type="bool" value="true"/>
@@ -85,6 +85,7 @@
     </property>
     <property name="plugin-3" type="string" value="systray">
       <property name="known-legacy-items" type="array">
+        <value type="string" value="system-config-printer"/>
         <value type="string" value="networkmanager applet"/>
         <value type="string" value="volumeicon"/>
         <value type="string" value="ethernet network connection “wired connection 1” active"/>

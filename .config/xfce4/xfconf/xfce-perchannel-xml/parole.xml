@@ -5,14 +5,14 @@
     <property name="font" type="string" value="Sans Bold 20"/>
   </property>
   <property name="folders" type="empty">
-    <property name="last-used-media" type="string" value="/home/lazar/Downloads/.p/DadCrush.23.10.24.Molly.Little.Dont.Be.A.Party.Pooper.XXX.480p.MP4-XXX[XC]"/>
+    <property name="last-used-media" type="string" value="/home/lazar"/>
   </property>
   <property name="window" type="empty">
     <property name="maximized" type="bool" value="false"/>
-    <property name="width" type="int" value="919"/>
-    <property name="height" type="int" value="553"/>
+    <property name="width" type="int" value="1226"/>
+    <property name="height" type="int" value="1057"/>
   </property>
   <property name="audio" type="empty">
-    <property name="volume" type="int" value="35"/>
+    <property name="volume" type="int" value="44"/>
   </property>
 </channel>

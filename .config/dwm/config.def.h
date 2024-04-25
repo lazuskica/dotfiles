@@ -30,12 +30,14 @@ static const Rule rules[] = {
 	 *	WM_CLASS(STRING) = instance, class
 	 *	WM_NAME(STRING) = title
 	 */
-	/* class      instance    title       tags mask     isfloating   monitor */
-	{ "Chromium",	NULL,      NULL,	1 << 0,		0,           -1 },
-	{ "Brave",	NULL,      NULL,	1 << 0,		0,           -1 },
-	{ "Clementine",	NULL,      NULL,	1 << 7,		0,           -1 },
-	{ "qBittorrent",NULL,	   NULL,	1 << 8,		0,	     -1 },
-	{ "Gimp",	NULL,	   NULL,	1 << 1,		0,	     -1 },	
+	/* class              instance	title	tags mask     isfloating  	monitor */
+	{ "Chromium",		NULL,	NULL,	1 << 0,		0,           	-1 },
+	{ "Brave",		NULL,   NULL,	1 << 0,		0,           	-1 },
+	{ "Clementine",		NULL,   NULL,	1 << 7,		0,           	-1 },
+	{ "qBittorrent",	NULL,	NULL,	1 << 8,		0,	     	-1 },
+	{ "Gimp",		NULL,	NULL,	1 << 1,		0,	     	-1 },
+	{ "STM32CubeIDE",	NULL,	NULL,	1 << 1,		0,		-1 },
+	{ "Stm32cubeide",	NULL,	NULL,	1 << 1,		0,		-1 },
 };
 
 /* layout(s) */
@@ -90,6 +92,7 @@ static const Key keys[] = {
 	{ MODKEY,                       XK_Right, focusmon,       {.i = +1 } },
 	{ MODKEY|ShiftMask,             XK_Left,  tagmon,         {.i = -1 } },
 	{ MODKEY|ShiftMask,             XK_Right, tagmon,         {.i = +1 } },
+	{ 0,				XK_F1,	 spawn,	   SHCMD("toggle_kbd.sh | pkill -RTMIN+11 dwmblocks") },
 	{ 0,				XK_F2,   spawn,	   SHCMD("pamixer -d 4 | pkill -RTMIN+10 dwmblocks") },
 	{ 0,				XK_F3,   spawn,	   SHCMD("pamixer -i 4 | pkill -RTMIN+10 dwmblocks") },
 	{ 0,				XK_F4,   spawn,	   SHCMD("pamixer -t | pkill -RTMIN+10 dwmblocks") },
