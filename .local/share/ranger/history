@@ -44,7 +44,7 @@ search .con
 delete
 search .config
 search picom
-search pico
-search .conf
 open_with q
+search .conf
+search pico
 search dwm

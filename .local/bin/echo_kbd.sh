@@ -6,12 +6,12 @@ layout=$(setxkbmap -v | awk -F + '/symbols/ {print $2}')
 # Depending on the keyboard layout, run one of three commands
 case $layout in
     "us")
-        echo "eng"
+        echo "󰥻 eng"
         ;;
     "rs")
-	echo "срб"
+	echo "󰥻 срб"
         ;;
     "rs(latin)")
-        echo "srb"
+        echo "󰥻 srb"
         ;;
 esac

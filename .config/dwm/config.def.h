@@ -1,22 +1,22 @@
 /* See LICENSE file for copyright and license details. */
 
 /* appearance */
-static const unsigned int borderpx  = 2;        /* border pixel of windows */
+static const unsigned int borderpx  = 0;        /* border pixel of windows */
 static const unsigned int gappx     = 4;        /* gaps between windows */
 static const unsigned int snap      = 16;       /* snap pixel */
 static const int showbar            = 1;        /* 0 means no bar */
 static const int topbar             = 1;        /* 0 means bottom bar */
 static const int vertpad            = 4;       /* vertical padding of bar */
 static const int sidepad           = 160;       /* horizontal padding of bar */
-static const int user_bh            = 2;        /* 2 is the default spacing around the bar's font */
+static const int user_bh            = 6;        /* 2 is the default spacing around the bar's font */
 static const unsigned int systraypinning = 0;   /* 0: sloppy systray follows selected monitor, >0: pin systray to monitor X */
-static const unsigned int systrayspacing = 2;   /* systray spacing */
+static const unsigned int systrayspacing = 6;   /* systray spacing */
 static const int systraypinningfailfirst = 1;   /* 1: if pinning fails, display systray on the first monitor, False: display systray on the last monitor*/
 static const int showsystray             = 1;   /* 0 means no systray */
-static const char *fonts[]          = { "BitstromWera Nerd Font:size=10.5" };
-static const char dmenufont[]       = "BitstromWera Nerd Font:size=10.5";
-static const char dmenu_w[]	= "148";
-static const char dmenu_y[]	= "737";
+static const char *fonts[]          = { "BitstromWera Nerd Font:size=11" };
+static const char dmenufont[]       = "BitstromWera Nerd Font:size=11";
+static const char dmenu_w[]	= "152";
+static const char dmenu_y[]	= "4";
 static const char dmenu_x[]	= "4";
 static const char col_2[]       = "#202020";
 static const char col_1[]       = "#e0e0e0";

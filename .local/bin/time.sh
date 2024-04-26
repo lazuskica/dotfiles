@@ -2,4 +2,4 @@
 
 time=$(date '+%H:%M:%S')
 icon_time='󰅐'
-printf "%s %s" "$icon_time" "$time"
+printf "%s %s" "$icon_time" "$time "
