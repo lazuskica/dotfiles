@@ -5,7 +5,7 @@ static int topbar = 0;                      /* -b  option; if 0, dmenu appears a
 static const unsigned int alpha = 0xcf;     /* Amount of opacity. 0xff is opaque             */
 /* -fn option overrides fonts[0]; default X11 font or font set */
 static const char *fonts[] = {
-	"BitstromWera Nerd Font:size=11"
+	"BitstromWera Nerd Font:size=10.5"
 };
 static const char *prompt      = NULL;      /* -p  option; prompt to the left of input field */
 char c2[8] = "#202020";
@@ -23,7 +23,7 @@ static const unsigned int alphas[SchemeLast][2] = {
 	[SchemeOut] = { OPAQUE, alpha },
 };
 /* -l option; if nonzero, dmenu uses vertical list with given number of lines */
-static unsigned int lines      = 12;
+static unsigned int lines      = 16;
 
 /*
  * Characters not considered part of a word while deleting words

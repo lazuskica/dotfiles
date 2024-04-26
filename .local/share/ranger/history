@@ -1,8 +1,3 @@
-shell tar cf skladiste.tar skladiste
-shell sudo tar skladiste.tar skladiste
-shell tar -cf skladiste.tar skladiste
-shell sudo tar -cf windows.old.tar skladiste
-shell sudo rm windows.old.tar
 rename skladist
 shell sudo tar -cf 
 shell mkdir skladiste
@@ -24,9 +19,7 @@ shell ./install.sh -h
 rename config.h
 rename dmenu
 search 
-search dwm
 rename config.def.h
-search .config
 rename config.h.mythen
 shell unxz gnome-professional-solid-40.1-dark.tar.xz
 shell unxz Nextwaita-dark-3.0.tar.xz
@@ -47,4 +40,11 @@ shell cp config.h config.h.inanna
 shell sudo cp config.def.h config.h
 shell sudo make clean install
 search obsidian
+search .con
 delete
+search .config
+search picom
+search pico
+search .conf
+open_with q
+search dwm

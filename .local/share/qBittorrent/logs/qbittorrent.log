@@ -1,496 +1,68 @@
-(N) 2023-09-12T14:31:38 - qBittorrent v4.5.4 started
-(N) 2023-09-12T14:31:38 - Using config directory: /home/lazar/.config/qBittorrent
-(N) 2023-09-12T14:31:41 - Trying to listen on the following list of IP addresses: "0.0.0.0:63644,[::]:63644"
-(I) 2023-09-12T14:31:42 - Peer ID: "-qB4540-"
-(I) 2023-09-12T14:31:42 - HTTP User-Agent: "qBittorrent/4.5.4"
-(I) 2023-09-12T14:31:42 - Distributed Hash Table (DHT) support: ON
-(I) 2023-09-12T14:31:42 - Local Peer Discovery support: ON
-(I) 2023-09-12T14:31:42 - Peer Exchange (PeX) support: ON
-(I) 2023-09-12T14:31:42 - Anonymous mode: OFF
-(I) 2023-09-12T14:31:42 - Encryption support: ON
-(I) 2023-09-12T14:31:42 - UPnP/NAT-PMP support: ON
-(I) 2023-09-12T14:31:42 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/63644"
-(I) 2023-09-12T14:31:42 - Successfully listening on IP. IP: "127.0.0.1". Port: "UDP/63644"
-(I) 2023-09-12T14:31:42 - Successfully listening on IP. IP: "192.168.0.19". Port: "TCP/63644"
-(I) 2023-09-12T14:31:42 - Successfully listening on IP. IP: "192.168.0.19". Port: "UDP/63644"
-(I) 2023-09-12T14:31:42 - Successfully listening on IP. IP: "::1". Port: "TCP/63644"
-(I) 2023-09-12T14:31:42 - Successfully listening on IP. IP: "::1". Port: "UDP/63644"
-(I) 2023-09-12T14:31:42 - Successfully listening on IP. IP: "fe80::488c:8ceb:1751:f7b6%enp3s0". Port: "TCP/63644"
-(I) 2023-09-12T14:31:42 - Successfully listening on IP. IP: "fe80::488c:8ceb:1751:f7b6%enp3s0". Port: "UDP/63644"
-(W) 2023-09-12T14:31:42 - Couldn't load IP geolocation database. Reason: No such file or directory
-(I) 2023-09-12T14:31:42 - Detected external IP. IP: "188.246.35.186"
-(I) 2023-09-12T14:31:42 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Fri Sep 1 02:13:34 2023.
-(I) 2023-09-12T14:31:42 - Successfully updated IP geolocation database.
-(N) 2023-09-12T14:33:27 - Options saved.
-(N) 2023-09-12T14:33:55 - Options saved.
-(N) 2023-09-12T14:34:06 - Options saved.
-(N) 2023-09-12T14:34:59 - Options saved.
-(N) 2023-09-12T14:35:12 - qBittorrent termination initiated
-(I) 2023-09-12T14:35:12 - UPnP/NAT-PMP support: OFF
-(N) 2023-09-12T14:35:13 - qBittorrent is now ready to exit
-(N) 2023-09-12T14:35:17 - qBittorrent v4.5.4 started
-(N) 2023-09-12T14:35:17 - Using config directory: /home/lazar/.config/qBittorrent
-(N) 2023-09-12T14:35:17 - Trying to listen on the following list of IP addresses: "0.0.0.0:63644,[::]:63644"
-(I) 2023-09-12T14:35:17 - Peer ID: "-qB4540-"
-(I) 2023-09-12T14:35:17 - HTTP User-Agent: "qBittorrent/4.5.4"
-(I) 2023-09-12T14:35:17 - Distributed Hash Table (DHT) support: ON
-(I) 2023-09-12T14:35:17 - Local Peer Discovery support: ON
-(I) 2023-09-12T14:35:17 - Peer Exchange (PeX) support: ON
-(I) 2023-09-12T14:35:17 - Anonymous mode: OFF
-(I) 2023-09-12T14:35:17 - Encryption support: ON
-(I) 2023-09-12T14:35:17 - UPnP/NAT-PMP support: ON
-(I) 2023-09-12T14:35:17 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/63644"
-(I) 2023-09-12T14:35:17 - Successfully listening on IP. IP: "127.0.0.1". Port: "UDP/63644"
-(I) 2023-09-12T14:35:17 - Successfully listening on IP. IP: "192.168.0.19". Port: "TCP/63644"
-(I) 2023-09-12T14:35:17 - Successfully listening on IP. IP: "192.168.0.19". Port: "UDP/63644"
-(I) 2023-09-12T14:35:17 - Successfully listening on IP. IP: "::1". Port: "TCP/63644"
-(I) 2023-09-12T14:35:17 - Successfully listening on IP. IP: "::1". Port: "UDP/63644"
-(I) 2023-09-12T14:35:17 - Successfully listening on IP. IP: "fe80::488c:8ceb:1751:f7b6%enp3s0". Port: "TCP/63644"
-(I) 2023-09-12T14:35:17 - Successfully listening on IP. IP: "fe80::488c:8ceb:1751:f7b6%enp3s0". Port: "UDP/63644"
-(I) 2023-09-12T14:35:17 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Fri Sep 1 02:13:34 2023.
-(I) 2023-09-12T14:35:17 - Detected external IP. IP: "188.246.35.186"
-(N) 2023-09-12T14:35:23 - qBittorrent termination initiated
-(I) 2023-09-12T14:35:23 - UPnP/NAT-PMP support: OFF
-(N) 2023-09-12T14:35:24 - qBittorrent is now ready to exit
-(N) 2023-09-12T14:35:26 - qBittorrent v4.5.4 started
-(N) 2023-09-12T14:35:26 - Using config directory: /home/lazar/.config/qBittorrent
-(N) 2023-09-12T14:35:26 - Trying to listen on the following list of IP addresses: "0.0.0.0:63644,[::]:63644"
-(I) 2023-09-12T14:35:26 - Peer ID: "-qB4540-"
-(I) 2023-09-12T14:35:26 - HTTP User-Agent: "qBittorrent/4.5.4"
-(I) 2023-09-12T14:35:26 - Distributed Hash Table (DHT) support: ON
-(I) 2023-09-12T14:35:26 - Local Peer Discovery support: ON
-(I) 2023-09-12T14:35:26 - Peer Exchange (PeX) support: ON
-(I) 2023-09-12T14:35:26 - Anonymous mode: OFF
-(I) 2023-09-12T14:35:26 - Encryption support: ON
-(I) 2023-09-12T14:35:26 - UPnP/NAT-PMP support: ON
-(I) 2023-09-12T14:35:26 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/63644"
-(I) 2023-09-12T14:35:26 - Successfully listening on IP. IP: "127.0.0.1". Port: "UDP/63644"
-(I) 2023-09-12T14:35:26 - Successfully listening on IP. IP: "192.168.0.19". Port: "TCP/63644"
-(I) 2023-09-12T14:35:26 - Successfully listening on IP. IP: "192.168.0.19". Port: "UDP/63644"
-(I) 2023-09-12T14:35:26 - Successfully listening on IP. IP: "::1". Port: "TCP/63644"
-(I) 2023-09-12T14:35:26 - Successfully listening on IP. IP: "::1". Port: "UDP/63644"
-(I) 2023-09-12T14:35:26 - Successfully listening on IP. IP: "fe80::488c:8ceb:1751:f7b6%enp3s0". Port: "TCP/63644"
-(I) 2023-09-12T14:35:26 - Successfully listening on IP. IP: "fe80::488c:8ceb:1751:f7b6%enp3s0". Port: "UDP/63644"
-(I) 2023-09-12T14:35:26 - Detected external IP. IP: "188.246.35.186"
-(I) 2023-09-12T14:35:26 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Fri Sep 1 02:13:34 2023.
-(N) 2023-09-12T14:36:49 - qBittorrent termination initiated
-(I) 2023-09-12T14:36:49 - UPnP/NAT-PMP support: OFF
-(N) 2023-09-12T14:36:49 - qBittorrent is now ready to exit
-(N) 2023-09-25T14:16:30 - qBittorrent v4.5.4 started
-(N) 2023-09-25T14:16:30 - Using config directory: /home/lazar/.config/qBittorrent
-(N) 2023-09-25T14:16:30 - Trying to listen on the following list of IP addresses: "0.0.0.0:63644,[::]:63644"
-(I) 2023-09-25T14:16:30 - Peer ID: "-qB4540-"
-(I) 2023-09-25T14:16:30 - HTTP User-Agent: "qBittorrent/4.5.4"
-(I) 2023-09-25T14:16:30 - Distributed Hash Table (DHT) support: ON
-(I) 2023-09-25T14:16:30 - Local Peer Discovery support: ON
-(I) 2023-09-25T14:16:30 - Peer Exchange (PeX) support: ON
-(I) 2023-09-25T14:16:30 - Anonymous mode: OFF
-(I) 2023-09-25T14:16:30 - Encryption support: ON
-(I) 2023-09-25T14:16:30 - UPnP/NAT-PMP support: ON
-(I) 2023-09-25T14:16:30 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/63644"
-(I) 2023-09-25T14:16:30 - Successfully listening on IP. IP: "127.0.0.1". Port: "UDP/63644"
-(I) 2023-09-25T14:16:30 - Successfully listening on IP. IP: "192.168.0.15". Port: "TCP/63644"
-(I) 2023-09-25T14:16:30 - Successfully listening on IP. IP: "192.168.0.15". Port: "UDP/63644"
-(I) 2023-09-25T14:16:30 - Successfully listening on IP. IP: "::1". Port: "TCP/63644"
-(I) 2023-09-25T14:16:30 - Successfully listening on IP. IP: "::1". Port: "UDP/63644"
-(I) 2023-09-25T14:16:30 - Successfully listening on IP. IP: "fe80::6d8a:9ff9:1748:22b%enp3s0". Port: "TCP/63644"
-(I) 2023-09-25T14:16:30 - Successfully listening on IP. IP: "fe80::6d8a:9ff9:1748:22b%enp3s0". Port: "UDP/63644"
-(I) 2023-09-25T14:16:30 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Fri Sep 1 02:13:34 2023.
-(I) 2023-09-25T14:16:31 - Detected external IP. IP: "188.246.35.186"
-(N) 2023-09-25T14:17:20 - qBittorrent v4.5.4 started
-(N) 2023-09-25T14:17:20 - Using config directory: /home/lazar/.config/qBittorrent
-(N) 2023-09-25T14:17:20 - qBittorrent termination initiated
-(N) 2023-09-25T14:17:20 - qBittorrent is now ready to exit
-(N) 2023-09-25T14:17:29 - Added new torrent. Torrent: "TeensLikeItBig.20.10.04.Lana.Rhoades.Over.Easy.Remastered..480p.MP4-XXX"
-(N) 2023-09-25T14:17:50 - qBittorrent v4.5.4 started
-(N) 2023-09-25T14:17:50 - Using config directory: /home/lazar/.config/qBittorrent
-(N) 2023-09-25T14:17:50 - qBittorrent termination initiated
-(N) 2023-09-25T14:17:50 - qBittorrent is now ready to exit
-(N) 2023-09-25T14:17:50 - Added new torrent. Torrent: "BrattySis.23.08.08.Gia.Paige.Vs.Lana.Rhoades.Compilation.XXX.108"
-(W) 2023-09-25T14:17:56 - File error alert. Torrent: "BrattySis.23.08.08.Gia.Paige.Vs.Lana.Rhoades.Compilation.XXX.108". File: "/home/skladiste/Downloads/BrattySis.23.08.08.Gia.Paige.Vs.Lana.Rhoades.Compilation.XXX.1080p.HEVC.x265.PRT[XvX]/BrattySis.23.08.08.Gia.Paige.Vs.Lana.Rhoades.Compilation.XXX.1080p.HEVC.x265.PRT.mkv". Reason: "BrattySis.23.08.08.Gia.Paige.Vs.Lana.Rhoades.Compilation.XXX.1080p.HEVC.x265.PRT[XvX] mkdir (/home/skladiste/Downloads/BrattySis.23.08.08.Gia.Paige.Vs.Lana.Rhoades.Compilation.XXX.1080p.HEVC.x265.PRT[XvX]/BrattySis.23.08.08.Gia.Paige.Vs.Lana.Rhoades.Compilation.XXX.1080p.HEVC.x265.PRT.mkv) error: Read-only file system"
-(W) 2023-09-25T14:17:59 - File error alert. Torrent: "TeensLikeItBig.20.10.04.Lana.Rhoades.Over.Easy.Remastered..480p.MP4-XXX". File: "/home/skladiste/Downloads/TeensLikeItBig.20.10.04.Lana.Rhoades.Over.Easy.Remastered..480p.MP4-XXX/TeensLikeItBig.20.10.04.Lana.Rhoades.Over.Easy.Remastered.480p.mp4". Reason: "TeensLikeItBig.20.10.04.Lana.Rhoades.Over.Easy.Remastered..480p.MP4-XXX mkdir (/home/skladiste/Downloads/TeensLikeItBig.20.10.04.Lana.Rhoades.Over.Easy.Remastered..480p.MP4-XXX/TeensLikeItBig.20.10.04.Lana.Rhoades.Over.Easy.Remastered.480p.mp4) error: Read-only file system"
-(N) 2023-09-25T14:18:13 - qBittorrent v4.5.4 started
-(N) 2023-09-25T14:18:13 - Using config directory: /home/lazar/.config/qBittorrent
-(N) 2023-09-25T14:18:14 - qBittorrent termination initiated
-(N) 2023-09-25T14:18:14 - qBittorrent is now ready to exit
-(N) 2023-09-25T14:18:14 - Added new torrent. Torrent: "Forbidden daughter - Lana Rhoades"
-(W) 2023-09-25T14:18:19 - File error alert. Torrent: "Forbidden daughter - Lana Rhoades". File: "/home/skladiste/Downloads/Forbidden DaughterX.mp4". Reason: "Forbidden DaughterX.mp4 file_open (/home/skladiste/Downloads/Forbidden DaughterX.mp4) error: Read-only file system"
-(W) 2023-09-25T14:19:12 - File error alert. Torrent: "TeensLikeItBig.20.10.04.Lana.Rhoades.Over.Easy.Remastered..480p.MP4-XXX". File: "/home/skladiste/Downloads/TeensLikeItBig.20.10.04.Lana.Rhoades.Over.Easy.Remastered..480p.MP4-XXX/TeensLikeItBig.20.10.04.Lana.Rhoades.Over.Easy.Remastered.480p.mp4". Reason: "TeensLikeItBig.20.10.04.Lana.Rhoades.Over.Easy.Remastered..480p.MP4-XXX mkdir (/home/skladiste/Downloads/TeensLikeItBig.20.10.04.Lana.Rhoades.Over.Easy.Remastered..480p.MP4-XXX/TeensLikeItBig.20.10.04.Lana.Rhoades.Over.Easy.Remastered.480p.mp4) error: Read-only file system"
-(W) 2023-09-25T14:19:13 - File error alert. Torrent: "Forbidden daughter - Lana Rhoades". File: "/home/skladiste/Downloads/Forbidden DaughterX.mp4". Reason: "Forbidden DaughterX.mp4 file_open (/home/skladiste/Downloads/Forbidden DaughterX.mp4) error: Read-only file system"
-(W) 2023-09-25T14:19:13 - File error alert. Torrent: "BrattySis.23.08.08.Gia.Paige.Vs.Lana.Rhoades.Compilation.XXX.108". File: "/home/skladiste/Downloads/BrattySis.23.08.08.Gia.Paige.Vs.Lana.Rhoades.Compilation.XXX.1080p.HEVC.x265.PRT[XvX]/BrattySis.23.08.08.Gia.Paige.Vs.Lana.Rhoades.Compilation.XXX.1080p.HEVC.x265.PRT.mkv". Reason: "BrattySis.23.08.08.Gia.Paige.Vs.Lana.Rhoades.Compilation.XXX.1080p.HEVC.x265.PRT[XvX] mkdir (/home/skladiste/Downloads/BrattySis.23.08.08.Gia.Paige.Vs.Lana.Rhoades.Compilation.XXX.1080p.HEVC.x265.PRT[XvX]/BrattySis.23.08.08.Gia.Paige.Vs.Lana.Rhoades.Compilation.XXX.1080p.HEVC.x265.PRT.mkv) error: Read-only file system"
-(N) 2023-09-25T14:19:25 - qBittorrent termination initiated
-(I) 2023-09-25T14:19:25 - UPnP/NAT-PMP support: OFF
-(N) 2023-09-25T14:19:31 - qBittorrent is now ready to exit
-(N) 2023-09-25T14:19:36 - qBittorrent v4.5.4 started
-(N) 2023-09-25T14:19:36 - Using config directory: /home/lazar/.config/qBittorrent
-(N) 2023-09-25T14:19:36 - Trying to listen on the following list of IP addresses: "0.0.0.0:63644,[::]:63644"
-(I) 2023-09-25T14:19:36 - Peer ID: "-qB4540-"
-(I) 2023-09-25T14:19:36 - HTTP User-Agent: "qBittorrent/4.5.4"
-(I) 2023-09-25T14:19:36 - Distributed Hash Table (DHT) support: ON
-(I) 2023-09-25T14:19:36 - Local Peer Discovery support: ON
-(I) 2023-09-25T14:19:36 - Peer Exchange (PeX) support: ON
-(I) 2023-09-25T14:19:36 - Anonymous mode: OFF
-(I) 2023-09-25T14:19:36 - Encryption support: ON
-(I) 2023-09-25T14:19:36 - UPnP/NAT-PMP support: ON
-(I) 2023-09-25T14:19:36 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/63644"
-(I) 2023-09-25T14:19:36 - Successfully listening on IP. IP: "127.0.0.1". Port: "UDP/63644"
-(I) 2023-09-25T14:19:36 - Successfully listening on IP. IP: "192.168.0.15". Port: "TCP/63644"
-(I) 2023-09-25T14:19:36 - Successfully listening on IP. IP: "192.168.0.15". Port: "UDP/63644"
-(I) 2023-09-25T14:19:36 - Successfully listening on IP. IP: "::1". Port: "TCP/63644"
-(I) 2023-09-25T14:19:36 - Successfully listening on IP. IP: "::1". Port: "UDP/63644"
-(I) 2023-09-25T14:19:36 - Successfully listening on IP. IP: "fe80::6d8a:9ff9:1748:22b%enp3s0". Port: "TCP/63644"
-(I) 2023-09-25T14:19:36 - Successfully listening on IP. IP: "fe80::6d8a:9ff9:1748:22b%enp3s0". Port: "UDP/63644"
-(N) 2023-09-25T14:19:36 - Restored torrent. Torrent: "Forbidden daughter - Lana Rhoades"
-(N) 2023-09-25T14:19:36 - Restored torrent. Torrent: "BrattySis.23.08.08.Gia.Paige.Vs.Lana.Rhoades.Compilation.XXX.108"
-(N) 2023-09-25T14:19:36 - Restored torrent. Torrent: "TeensLikeItBig.20.10.04.Lana.Rhoades.Over.Easy.Remastered..480p.MP4-XXX"
-(I) 2023-09-25T14:19:36 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Fri Sep 1 02:13:34 2023.
-(I) 2023-09-25T14:19:37 - Detected external IP. IP: "188.246.35.186"
-(W) 2023-09-25T14:19:38 - File error alert. Torrent: "Forbidden daughter - Lana Rhoades". File: "/home/skladiste/Downloads/Forbidden DaughterX.mp4". Reason: "Forbidden DaughterX.mp4 file_open (/home/skladiste/Downloads/Forbidden DaughterX.mp4) error: Read-only file system"
-(W) 2023-09-25T14:19:39 - File error alert. Torrent: "BrattySis.23.08.08.Gia.Paige.Vs.Lana.Rhoades.Compilation.XXX.108". File: "/home/skladiste/Downloads/BrattySis.23.08.08.Gia.Paige.Vs.Lana.Rhoades.Compilation.XXX.1080p.HEVC.x265.PRT[XvX]/BrattySis.23.08.08.Gia.Paige.Vs.Lana.Rhoades.Compilation.XXX.1080p.HEVC.x265.PRT.mkv". Reason: "BrattySis.23.08.08.Gia.Paige.Vs.Lana.Rhoades.Compilation.XXX.1080p.HEVC.x265.PRT[XvX] mkdir (/home/skladiste/Downloads/BrattySis.23.08.08.Gia.Paige.Vs.Lana.Rhoades.Compilation.XXX.1080p.HEVC.x265.PRT[XvX]/BrattySis.23.08.08.Gia.Paige.Vs.Lana.Rhoades.Compilation.XXX.1080p.HEVC.x265.PRT.mkv) error: Read-only file system"
-(W) 2023-09-25T14:20:02 - File error alert. Torrent: "TeensLikeItBig.20.10.04.Lana.Rhoades.Over.Easy.Remastered..480p.MP4-XXX". File: "/home/skladiste/Downloads/TeensLikeItBig.20.10.04.Lana.Rhoades.Over.Easy.Remastered..480p.MP4-XXX/TeensLikeItBig.20.10.04.Lana.Rhoades.Over.Easy.Remastered.480p.mp4". Reason: "TeensLikeItBig.20.10.04.Lana.Rhoades.Over.Easy.Remastered..480p.MP4-XXX mkdir (/home/skladiste/Downloads/TeensLikeItBig.20.10.04.Lana.Rhoades.Over.Easy.Remastered..480p.MP4-XXX/TeensLikeItBig.20.10.04.Lana.Rhoades.Over.Easy.Remastered.480p.mp4) error: Read-only file system"
-(N) 2023-09-25T14:20:32 - Enqueued torrent move. Torrent: "TeensLikeItBig.20.10.04.Lana.Rhoades.Over.Easy.Remastered..480p.MP4-XXX". Source: "/home/skladiste/Downloads". Destination: "/home/lazar/Downloads"
-(N) 2023-09-25T14:20:32 - Start moving torrent. Torrent: "TeensLikeItBig.20.10.04.Lana.Rhoades.Over.Easy.Remastered..480p.MP4-XXX". Destination: "/home/lazar/Downloads"
-(N) 2023-09-25T14:20:32 - Enqueued torrent move. Torrent: "BrattySis.23.08.08.Gia.Paige.Vs.Lana.Rhoades.Compilation.XXX.108". Source: "/home/skladiste/Downloads". Destination: "/home/lazar/Downloads"
-(N) 2023-09-25T14:20:32 - Enqueued torrent move. Torrent: "Forbidden daughter - Lana Rhoades". Source: "/home/skladiste/Downloads". Destination: "/home/lazar/Downloads"
-(N) 2023-09-25T14:20:32 - Moved torrent successfully. Torrent: "TeensLikeItBig.20.10.04.Lana.Rhoades.Over.Easy.Remastered..480p.MP4-XXX". Destination: "/home/lazar/Downloads"
-(N) 2023-09-25T14:20:32 - Start moving torrent. Torrent: "BrattySis.23.08.08.Gia.Paige.Vs.Lana.Rhoades.Compilation.XXX.108". Destination: "/home/lazar/Downloads"
-(N) 2023-09-25T14:20:32 - Moved torrent successfully. Torrent: "BrattySis.23.08.08.Gia.Paige.Vs.Lana.Rhoades.Compilation.XXX.108". Destination: "/home/lazar/Downloads"
-(N) 2023-09-25T14:20:32 - Start moving torrent. Torrent: "Forbidden daughter - Lana Rhoades". Destination: "/home/lazar/Downloads"
-(N) 2023-09-25T14:20:33 - Moved torrent successfully. Torrent: "Forbidden daughter - Lana Rhoades". Destination: "/home/lazar/Downloads"
-(N) 2023-09-25T14:20:48 - Enqueued torrent move. Torrent: "TeensLikeItBig.20.10.04.Lana.Rhoades.Over.Easy.Remastered..480p.MP4-XXX". Source: "/home/lazar/Downloads". Destination: "/home/skladiste/.p"
-(N) 2023-09-25T14:20:48 - Start moving torrent. Torrent: "TeensLikeItBig.20.10.04.Lana.Rhoades.Over.Easy.Remastered..480p.MP4-XXX". Destination: "/home/skladiste/.p"
-(N) 2023-09-25T14:20:48 - Enqueued torrent move. Torrent: "BrattySis.23.08.08.Gia.Paige.Vs.Lana.Rhoades.Compilation.XXX.108". Source: "/home/lazar/Downloads". Destination: "/home/skladiste/.p"
-(N) 2023-09-25T14:20:48 - Enqueued torrent move. Torrent: "Forbidden daughter - Lana Rhoades". Source: "/home/lazar/Downloads". Destination: "/home/skladiste/.p"
-(N) 2023-09-25T14:20:48 - Moved torrent successfully. Torrent: "TeensLikeItBig.20.10.04.Lana.Rhoades.Over.Easy.Remastered..480p.MP4-XXX". Destination: "/home/skladiste/.p"
-(N) 2023-09-25T14:20:48 - Start moving torrent. Torrent: "BrattySis.23.08.08.Gia.Paige.Vs.Lana.Rhoades.Compilation.XXX.108". Destination: "/home/skladiste/.p"
-(N) 2023-09-25T14:20:48 - Moved torrent successfully. Torrent: "BrattySis.23.08.08.Gia.Paige.Vs.Lana.Rhoades.Compilation.XXX.108". Destination: "/home/skladiste/.p"
-(N) 2023-09-25T14:20:48 - Start moving torrent. Torrent: "Forbidden daughter - Lana Rhoades". Destination: "/home/skladiste/.p"
-(N) 2023-09-25T14:20:48 - Moved torrent successfully. Torrent: "Forbidden daughter - Lana Rhoades". Destination: "/home/skladiste/.p"
-(N) 2023-09-25T14:21:13 - qBittorrent termination initiated
-(I) 2023-09-25T14:21:13 - UPnP/NAT-PMP support: OFF
-(N) 2023-09-25T14:21:18 - qBittorrent is now ready to exit
-(N) 2023-09-25T14:24:04 - qBittorrent v4.5.4 started
-(N) 2023-09-25T14:24:04 - Using config directory: /home/lazar/.config/qBittorrent
-(N) 2023-09-25T14:24:04 - Trying to listen on the following list of IP addresses: "0.0.0.0:63644,[::]:63644"
-(I) 2023-09-25T14:24:04 - Peer ID: "-qB4540-"
-(I) 2023-09-25T14:24:04 - HTTP User-Agent: "qBittorrent/4.5.4"
-(I) 2023-09-25T14:24:04 - Distributed Hash Table (DHT) support: ON
-(I) 2023-09-25T14:24:04 - Local Peer Discovery support: ON
-(I) 2023-09-25T14:24:04 - Peer Exchange (PeX) support: ON
-(I) 2023-09-25T14:24:04 - Anonymous mode: OFF
-(I) 2023-09-25T14:24:04 - Encryption support: ON
-(I) 2023-09-25T14:24:04 - UPnP/NAT-PMP support: ON
-(I) 2023-09-25T14:24:04 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/63644"
-(I) 2023-09-25T14:24:04 - Successfully listening on IP. IP: "127.0.0.1". Port: "UDP/63644"
-(I) 2023-09-25T14:24:04 - Successfully listening on IP. IP: "192.168.0.15". Port: "TCP/63644"
-(I) 2023-09-25T14:24:04 - Successfully listening on IP. IP: "192.168.0.15". Port: "UDP/63644"
-(I) 2023-09-25T14:24:04 - Successfully listening on IP. IP: "::1". Port: "TCP/63644"
-(I) 2023-09-25T14:24:04 - Successfully listening on IP. IP: "::1". Port: "UDP/63644"
-(I) 2023-09-25T14:24:04 - Successfully listening on IP. IP: "fe80::6d8a:9ff9:1748:22b%enp3s0". Port: "TCP/63644"
-(I) 2023-09-25T14:24:04 - Successfully listening on IP. IP: "fe80::6d8a:9ff9:1748:22b%enp3s0". Port: "UDP/63644"
-(I) 2023-09-25T14:24:04 - Detected external IP. IP: "188.246.35.186"
-(N) 2023-09-25T14:24:04 - Restored torrent. Torrent: "Forbidden daughter - Lana Rhoades"
-(N) 2023-09-25T14:24:04 - Restored torrent. Torrent: "BrattySis.23.08.08.Gia.Paige.Vs.Lana.Rhoades.Compilation.XXX.108"
-(N) 2023-09-25T14:24:04 - Restored torrent. Torrent: "TeensLikeItBig.20.10.04.Lana.Rhoades.Over.Easy.Remastered..480p.MP4-XXX"
-(I) 2023-09-25T14:24:04 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Fri Sep 1 02:13:34 2023.
-(N) 2023-09-25T14:25:12 - Torrent download finished. Torrent: "Forbidden daughter - Lana Rhoades"
-(N) 2023-09-25T14:25:29 - Torrent download finished. Torrent: "TeensLikeItBig.20.10.04.Lana.Rhoades.Over.Easy.Remastered..480p.MP4-XXX"
-(N) 2023-09-25T14:25:54 - Torrent download finished. Torrent: "BrattySis.23.08.08.Gia.Paige.Vs.Lana.Rhoades.Compilation.XXX.108"
-(N) 2023-09-25T14:34:17 - Removed torrent. Torrent: "BrattySis.23.08.08.Gia.Paige.Vs.Lana.Rhoades.Compilation.XXX.108"
-(N) 2023-09-25T14:34:17 - Removed torrent. Torrent: "Forbidden daughter - Lana Rhoades"
-(N) 2023-09-25T14:34:17 - Removed torrent. Torrent: "TeensLikeItBig.20.10.04.Lana.Rhoades.Over.Easy.Remastered..480p.MP4-XXX"
-(N) 2023-09-25T14:34:19 - qBittorrent termination initiated
-(I) 2023-09-25T14:34:19 - UPnP/NAT-PMP support: OFF
-(N) 2023-09-25T14:34:22 - qBittorrent is now ready to exit
-(N) 2023-09-25T18:25:16 - qBittorrent v4.5.4 started
-(N) 2023-09-25T18:25:16 - Using config directory: /home/lazar/.config/qBittorrent
-(N) 2023-09-25T18:25:16 - Trying to listen on the following list of IP addresses: "0.0.0.0:63644,[::]:63644"
-(I) 2023-09-25T18:25:16 - Peer ID: "-qB4540-"
-(I) 2023-09-25T18:25:16 - HTTP User-Agent: "qBittorrent/4.5.4"
-(I) 2023-09-25T18:25:16 - Distributed Hash Table (DHT) support: ON
-(I) 2023-09-25T18:25:16 - Local Peer Discovery support: ON
-(I) 2023-09-25T18:25:16 - Peer Exchange (PeX) support: ON
-(I) 2023-09-25T18:25:16 - Anonymous mode: OFF
-(I) 2023-09-25T18:25:16 - Encryption support: ON
-(I) 2023-09-25T18:25:16 - UPnP/NAT-PMP support: ON
-(I) 2023-09-25T18:25:16 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/63644"
-(I) 2023-09-25T18:25:16 - Successfully listening on IP. IP: "127.0.0.1". Port: "UDP/63644"
-(I) 2023-09-25T18:25:16 - Successfully listening on IP. IP: "192.168.0.15". Port: "TCP/63644"
-(I) 2023-09-25T18:25:16 - Successfully listening on IP. IP: "192.168.0.15". Port: "UDP/63644"
-(I) 2023-09-25T18:25:16 - Successfully listening on IP. IP: "::1". Port: "TCP/63644"
-(I) 2023-09-25T18:25:16 - Successfully listening on IP. IP: "::1". Port: "UDP/63644"
-(I) 2023-09-25T18:25:16 - Successfully listening on IP. IP: "fe80::6d8a:9ff9:1748:22b%enp3s0". Port: "TCP/63644"
-(I) 2023-09-25T18:25:16 - Successfully listening on IP. IP: "fe80::6d8a:9ff9:1748:22b%enp3s0". Port: "UDP/63644"
-(I) 2023-09-25T18:25:16 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Fri Sep 1 02:13:34 2023.
-(I) 2023-09-25T18:25:16 - Detected external IP. IP: "188.246.35.186"
-(N) 2023-09-25T18:25:25 - qBittorrent v4.5.4 started
-(N) 2023-09-25T18:25:25 - Using config directory: /home/lazar/.config/qBittorrent
-(N) 2023-09-25T18:25:26 - qBittorrent termination initiated
-(N) 2023-09-25T18:25:26 - qBittorrent is now ready to exit
-(N) 2023-09-25T18:30:53 - qBittorrent v4.5.4 started
-(N) 2023-09-25T18:30:53 - Using config directory: /home/lazar/.config/qBittorrent
-(N) 2023-09-25T18:30:53 - qBittorrent termination initiated
-(N) 2023-09-25T18:30:53 - qBittorrent is now ready to exit
-(N) 2023-09-25T18:30:56 - qBittorrent termination initiated
-(I) 2023-09-25T18:30:56 - UPnP/NAT-PMP support: OFF
-(N) 2023-09-25T18:30:57 - qBittorrent is now ready to exit
-(N) 2023-09-27T17:24:35 - qBittorrent v4.5.4 started
-(N) 2023-09-27T17:24:35 - Using config directory: /home/lazar/.config/qBittorrent
-(N) 2023-09-27T17:24:35 - Trying to listen on the following list of IP addresses: "0.0.0.0:63644,[::]:63644"
-(I) 2023-09-27T17:24:35 - Peer ID: "-qB4540-"
-(I) 2023-09-27T17:24:35 - HTTP User-Agent: "qBittorrent/4.5.4"
-(I) 2023-09-27T17:24:35 - Distributed Hash Table (DHT) support: ON
-(I) 2023-09-27T17:24:35 - Local Peer Discovery support: ON
-(I) 2023-09-27T17:24:35 - Peer Exchange (PeX) support: ON
-(I) 2023-09-27T17:24:35 - Anonymous mode: OFF
-(I) 2023-09-27T17:24:35 - Encryption support: ON
-(I) 2023-09-27T17:24:35 - UPnP/NAT-PMP support: ON
-(I) 2023-09-27T17:24:35 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/63644"
-(I) 2023-09-27T17:24:35 - Successfully listening on IP. IP: "127.0.0.1". Port: "UDP/63644"
-(I) 2023-09-27T17:24:35 - Successfully listening on IP. IP: "192.168.0.15". Port: "TCP/63644"
-(I) 2023-09-27T17:24:35 - Successfully listening on IP. IP: "192.168.0.15". Port: "UDP/63644"
-(I) 2023-09-27T17:24:35 - Successfully listening on IP. IP: "169.254.5.176". Port: "TCP/63644"
-(I) 2023-09-27T17:24:35 - Successfully listening on IP. IP: "169.254.5.176". Port: "UDP/63644"
-(I) 2023-09-27T17:24:35 - Successfully listening on IP. IP: "::1". Port: "TCP/63644"
-(I) 2023-09-27T17:24:35 - Successfully listening on IP. IP: "::1". Port: "UDP/63644"
-(I) 2023-09-27T17:24:35 - Successfully listening on IP. IP: "fe80::6d8a:9ff9:1748:22b%enp3s0". Port: "TCP/63644"
-(I) 2023-09-27T17:24:35 - Successfully listening on IP. IP: "fe80::6d8a:9ff9:1748:22b%enp3s0". Port: "UDP/63644"
-(I) 2023-09-27T17:24:35 - Detected external IP. IP: "188.246.35.186"
-(I) 2023-09-27T17:24:35 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Fri Sep 1 02:13:34 2023.
-(N) 2023-09-27T17:24:36 - Added new torrent. Torrent: "IntimatePOV 2023 Elsa Jean My Petite Love Doll XXX 1080p MP4-XX"
-(N) 2023-09-27T17:24:39 - qBittorrent v4.5.4 started
-(N) 2023-09-27T17:24:39 - Using config directory: /home/lazar/.config/qBittorrent
-(N) 2023-09-27T17:24:40 - qBittorrent termination initiated
-(N) 2023-09-27T17:24:40 - qBittorrent is now ready to exit
-(N) 2023-09-27T17:24:40 - Added new torrent. Torrent: "DatingMyStepson 23 09 25 Bunny Madison The MILF Youd Want To Ma"
-(N) 2023-09-27T17:24:56 - qBittorrent v4.5.4 started
-(N) 2023-09-27T17:24:56 - Using config directory: /home/lazar/.config/qBittorrent
-(N) 2023-09-27T17:24:56 - qBittorrent termination initiated
-(N) 2023-09-27T17:24:56 - Added new torrent. Torrent: "Eva Elfie - My Hot Girlfriend - BigTits Roleplay Hardcore POV 720p"
-(N) 2023-09-27T17:24:56 - qBittorrent is now ready to exit
-(N) 2023-09-27T17:25:13 - Torrent download finished. Torrent: "DatingMyStepson 23 09 25 Bunny Madison The MILF Youd Want To Ma"
-(N) 2023-09-27T17:26:06 - Removed torrent. Torrent: "DatingMyStepson 23 09 25 Bunny Madison The MILF Youd Want To Ma"
-(N) 2023-09-27T17:26:44 - Torrent download finished. Torrent: "Eva Elfie - My Hot Girlfriend - BigTits Roleplay Hardcore POV 720p"
-(N) 2023-09-27T17:26:51 - Removed torrent. Torrent: "Eva Elfie - My Hot Girlfriend - BigTits Roleplay Hardcore POV 720p"
-(N) 2023-09-27T17:26:58 - Torrent download finished. Torrent: "IntimatePOV 2023 Elsa Jean My Petite Love Doll XXX 1080p MP4-XX"
-(N) 2023-09-27T17:27:00 - Removed torrent. Torrent: "IntimatePOV 2023 Elsa Jean My Petite Love Doll XXX 1080p MP4-XX"
-(N) 2023-09-27T17:27:05 - qBittorrent termination initiated
-(I) 2023-09-27T17:27:05 - UPnP/NAT-PMP support: OFF
-(N) 2023-09-27T17:27:06 - qBittorrent is now ready to exit
-(N) 2023-10-30T18:41:26 - qBittorrent v4.5.4 started
-(N) 2023-10-30T18:41:26 - Using config directory: /home/lazar/.config/qBittorrent
-(N) 2023-10-30T18:41:26 - Trying to listen on the following list of IP addresses: "0.0.0.0:63644,[::]:63644"
-(I) 2023-10-30T18:41:26 - Peer ID: "-qB4540-"
-(I) 2023-10-30T18:41:26 - HTTP User-Agent: "qBittorrent/4.5.4"
-(I) 2023-10-30T18:41:26 - Distributed Hash Table (DHT) support: ON
-(I) 2023-10-30T18:41:26 - Local Peer Discovery support: ON
-(I) 2023-10-30T18:41:26 - Peer Exchange (PeX) support: ON
-(I) 2023-10-30T18:41:26 - Anonymous mode: OFF
-(I) 2023-10-30T18:41:26 - Encryption support: ON
-(I) 2023-10-30T18:41:26 - UPnP/NAT-PMP support: ON
-(I) 2023-10-30T18:41:27 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/63644"
-(I) 2023-10-30T18:41:27 - Successfully listening on IP. IP: "127.0.0.1". Port: "UDP/63644"
-(I) 2023-10-30T18:41:27 - Successfully listening on IP. IP: "192.168.0.21". Port: "TCP/63644"
-(I) 2023-10-30T18:41:27 - Successfully listening on IP. IP: "192.168.0.21". Port: "UDP/63644"
-(I) 2023-10-30T18:41:27 - Successfully listening on IP. IP: "::1". Port: "TCP/63644"
-(I) 2023-10-30T18:41:27 - Successfully listening on IP. IP: "::1". Port: "UDP/63644"
-(I) 2023-10-30T18:41:27 - Successfully listening on IP. IP: "fe80::6d8a:9ff9:1748:22b%enp3s0". Port: "TCP/63644"
-(I) 2023-10-30T18:41:27 - Successfully listening on IP. IP: "fe80::6d8a:9ff9:1748:22b%enp3s0". Port: "UDP/63644"
-(I) 2023-10-30T18:41:27 - Successfully listening on IP. IP: "fe80::488c:8ceb:1751:f7b6%enp3s0". Port: "TCP/63644"
-(I) 2023-10-30T18:41:27 - Successfully listening on IP. IP: "fe80::488c:8ceb:1751:f7b6%enp3s0". Port: "UDP/63644"
-(I) 2023-10-30T18:41:27 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Fri Sep 1 02:13:34 2023.
-(I) 2023-10-30T18:41:27 - Detected external IP. IP: "188.246.35.186"
-(I) 2023-10-30T18:41:27 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sun Oct 1 02:09:28 2023.
-(I) 2023-10-30T18:41:27 - Successfully updated IP geolocation database.
-(N) 2023-10-30T18:41:35 - Added new torrent. Torrent: "OnlyFans - Blake Blossom Riding a Black Cock - BigTits BBC Hardcore 720p"
-(W) 2023-10-30T18:41:40 - File error alert. Torrent: "OnlyFans - Blake Blossom Riding a Black Cock - BigTits BBC Hardcore 720p". File: "/home/skladiste/Downloads/OnlyFans.Blake.Blossom.Riding.a.Black.Cock.bigass.bigtits.black.bbc.hardcore.mp4". Reason: "OnlyFans.Blake.Blossom.Riding.a.Black.Cock.bigass.bigtits.black.bbc.hardcore.mp4 file_open (/home/skladiste/Downloads/OnlyFans.Blake.Blossom.Riding.a.Black.Cock.bigass.bigtits.black.bbc.hardcore.mp4) error: Read-only file system"
-(N) 2023-10-30T18:45:30 - Removed torrent. Torrent: "OnlyFans - Blake Blossom Riding a Black Cock - BigTits BBC Hardcore 720p"
-(N) 2023-10-30T18:46:13 - Added new torrent. Torrent: "OnlyFans - Blake Blossom Riding a Black Cock - BigTits BBC Hardcore 720p"
-(N) 2023-10-30T18:46:13 - Added new torrent. Torrent: "PervMom 23 10 29 Cory Chase Dick Or Cheat XXX 480p MP4-XXX [XC]"
-(N) 2023-10-30T18:46:13 - Added new torrent. Torrent: "SisLovesMe 23 10 28 Chanel Camryn Shared Accummodation XXX 480p"
-(N) 2023-10-30T18:46:13 - Added new torrent. Torrent: "MomsTeachSex 23 10 29 Demi Hawks And Pristine Edge Bad Stepmom"
-(N) 2023-10-30T18:46:13 - Added new torrent. Torrent: "DadCrush 23 10 24 Molly Little Dont Be A Party Pooper XXX 480p"
-(W) 2023-10-30T18:46:15 - File error alert. Torrent: "OnlyFans - Blake Blossom Riding a Black Cock - BigTits BBC Hardcore 720p". File: "/home/skladiste/Downloads/OnlyFans.Blake.Blossom.Riding.a.Black.Cock.bigass.bigtits.black.bbc.hardcore.mp4". Reason: "OnlyFans.Blake.Blossom.Riding.a.Black.Cock.bigass.bigtits.black.bbc.hardcore.mp4 file_open (/home/skladiste/Downloads/OnlyFans.Blake.Blossom.Riding.a.Black.Cock.bigass.bigtits.black.bbc.hardcore.mp4) error: Read-only file system"
-(W) 2023-10-30T18:46:15 - File error alert. Torrent: "PervMom 23 10 29 Cory Chase Dick Or Cheat XXX 480p MP4-XXX [XC]". File: "/home/skladiste/Downloads/PervMom.23.10.29.Cory.Chase.Dick.Or.Cheat.XXX.480p.MP4-XXX[XC]/pervmom.23.10.29.cory.chase.dick.or.cheat.480p.mp4". Reason: "PervMom.23.10.29.Cory.Chase.Dick.Or.Cheat.XXX.480p.MP4-XXX[XC] mkdir (/home/skladiste/Downloads/PervMom.23.10.29.Cory.Chase.Dick.Or.Cheat.XXX.480p.MP4-XXX[XC]/pervmom.23.10.29.cory.chase.dick.or.cheat.480p.mp4) error: Read-only file system"
-(W) 2023-10-30T18:46:18 - File error alert. Torrent: "DadCrush 23 10 24 Molly Little Dont Be A Party Pooper XXX 480p". File: "/home/skladiste/Downloads/DadCrush.23.10.24.Molly.Little.Dont.Be.A.Party.Pooper.XXX.480p.MP4-XXX[XC]/dadcrush.23.10.24.molly.little.dont.be.a.party.pooper.480p.mp4". Reason: "DadCrush.23.10.24.Molly.Little.Dont.Be.A.Party.Pooper.XXX.480p.MP4-XXX[XC] mkdir (/home/skladiste/Downloads/DadCrush.23.10.24.Molly.Little.Dont.Be.A.Party.Pooper.XXX.480p.MP4-XXX[XC]/dadcrush.23.10.24.molly.little.dont.be.a.party.pooper.480p.mp4) error: Read-only file system"
-(W) 2023-10-30T18:46:18 - File error alert. Torrent: "SisLovesMe 23 10 28 Chanel Camryn Shared Accummodation XXX 480p". File: "/home/skladiste/Downloads/SisLovesMe.23.10.28.Chanel.Camryn.Shared.Accummodation.XXX.480p.MP4-XXX[XC]/sislovesme.23.10.28.chanel.camryn.shared.accummodation.480p.mp4". Reason: "SisLovesMe.23.10.28.Chanel.Camryn.Shared.Accummodation.XXX.480p.MP4-XXX[XC] mkdir (/home/skladiste/Downloads/SisLovesMe.23.10.28.Chanel.Camryn.Shared.Accummodation.XXX.480p.MP4-XXX[XC]/sislovesme.23.10.28.chanel.camryn.shared.accummodation.480p.mp4) error: Read-only file system"
-(N) 2023-10-30T18:46:21 - Removed torrent. Torrent: "DadCrush 23 10 24 Molly Little Dont Be A Party Pooper XXX 480p"
-(N) 2023-10-30T18:46:21 - Removed torrent. Torrent: "MomsTeachSex 23 10 29 Demi Hawks And Pristine Edge Bad Stepmom"
-(N) 2023-10-30T18:46:21 - Removed torrent. Torrent: "SisLovesMe 23 10 28 Chanel Camryn Shared Accummodation XXX 480p"
-(N) 2023-10-30T18:46:21 - Removed torrent. Torrent: "PervMom 23 10 29 Cory Chase Dick Or Cheat XXX 480p MP4-XXX [XC]"
-(N) 2023-10-30T18:46:21 - Removed torrent. Torrent: "OnlyFans - Blake Blossom Riding a Black Cock - BigTits BBC Hardcore 720p"
-(N) 2023-10-30T18:47:12 - qBittorrent v4.5.4 started
-(N) 2023-10-30T18:47:12 - Using config directory: /home/lazar/.config/qBittorrent
-(N) 2023-10-30T18:47:12 - qBittorrent termination initiated
-(N) 2023-10-30T18:47:12 - qBittorrent is now ready to exit
-(N) 2023-10-30T18:47:22 - Added new torrent. Torrent: "OnlyFans - Blake Blossom Riding a Black Cock - BigTits BBC Hardcore 720p"
-(N) 2023-10-30T18:47:22 - Added new torrent. Torrent: "PervMom 23 10 29 Cory Chase Dick Or Cheat XXX 480p MP4-XXX [XC]"
-(N) 2023-10-30T18:47:22 - Added new torrent. Torrent: "SisLovesMe 23 10 28 Chanel Camryn Shared Accummodation XXX 480p"
-(N) 2023-10-30T18:47:22 - Added new torrent. Torrent: "MomsTeachSex 23 10 29 Demi Hawks And Pristine Edge Bad Stepmom"
-(N) 2023-10-30T18:47:22 - Added new torrent. Torrent: "DadCrush 23 10 24 Molly Little Dont Be A Party Pooper XXX 480p"
-(W) 2023-10-30T18:47:26 - File error alert. Torrent: "PervMom 23 10 29 Cory Chase Dick Or Cheat XXX 480p MP4-XXX [XC]". File: "/home/skladiste/Downloads/PervMom.23.10.29.Cory.Chase.Dick.Or.Cheat.XXX.480p.MP4-XXX[XC]/pervmom.23.10.29.cory.chase.dick.or.cheat.480p.mp4". Reason: "PervMom.23.10.29.Cory.Chase.Dick.Or.Cheat.XXX.480p.MP4-XXX[XC] mkdir (/home/skladiste/Downloads/PervMom.23.10.29.Cory.Chase.Dick.Or.Cheat.XXX.480p.MP4-XXX[XC]/pervmom.23.10.29.cory.chase.dick.or.cheat.480p.mp4) error: Permission denied"
-(W) 2023-10-30T18:47:27 - File error alert. Torrent: "DadCrush 23 10 24 Molly Little Dont Be A Party Pooper XXX 480p". File: "/home/skladiste/Downloads/DadCrush.23.10.24.Molly.Little.Dont.Be.A.Party.Pooper.XXX.480p.MP4-XXX[XC]/dadcrush.23.10.24.molly.little.dont.be.a.party.pooper.480p.mp4". Reason: "DadCrush.23.10.24.Molly.Little.Dont.Be.A.Party.Pooper.XXX.480p.MP4-XXX[XC] mkdir (/home/skladiste/Downloads/DadCrush.23.10.24.Molly.Little.Dont.Be.A.Party.Pooper.XXX.480p.MP4-XXX[XC]/dadcrush.23.10.24.molly.little.dont.be.a.party.pooper.480p.mp4) error: Permission denied"
-(W) 2023-10-30T18:47:27 - File error alert. Torrent: "SisLovesMe 23 10 28 Chanel Camryn Shared Accummodation XXX 480p". File: "/home/skladiste/Downloads/SisLovesMe.23.10.28.Chanel.Camryn.Shared.Accummodation.XXX.480p.MP4-XXX[XC]/sislovesme.23.10.28.chanel.camryn.shared.accummodation.480p.mp4". Reason: "SisLovesMe.23.10.28.Chanel.Camryn.Shared.Accummodation.XXX.480p.MP4-XXX[XC] mkdir (/home/skladiste/Downloads/SisLovesMe.23.10.28.Chanel.Camryn.Shared.Accummodation.XXX.480p.MP4-XXX[XC]/sislovesme.23.10.28.chanel.camryn.shared.accummodation.480p.mp4) error: Permission denied"
-(W) 2023-10-30T18:47:30 - File error alert. Torrent: "OnlyFans - Blake Blossom Riding a Black Cock - BigTits BBC Hardcore 720p". File: "/home/skladiste/Downloads/OnlyFans.Blake.Blossom.Riding.a.Black.Cock.bigass.bigtits.black.bbc.hardcore.mp4". Reason: "OnlyFans.Blake.Blossom.Riding.a.Black.Cock.bigass.bigtits.black.bbc.hardcore.mp4 mkdir (/home/skladiste/Downloads/OnlyFans.Blake.Blossom.Riding.a.Black.Cock.bigass.bigtits.black.bbc.hardcore.mp4) error: Permission denied"
-(W) 2023-10-30T18:47:35 - File error alert. Torrent: "MomsTeachSex 23 10 29 Demi Hawks And Pristine Edge Bad Stepmom". File: "/home/skladiste/Downloads/MomsTeachSex.23.10.29.Demi.Hawks.And.Pristine.Edge.Bad.Stepmom.XXX.480p.MP4-XXX[XC]/momsteachsex.23.10.29.demi.hawks.and.pristine.edge.bad.stepmom.480p.mp4". Reason: "MomsTeachSex.23.10.29.Demi.Hawks.And.Pristine.Edge.Bad.Stepmom.XXX.480p.MP4-XXX[XC] mkdir (/home/skladiste/Downloads/MomsTeachSex.23.10.29.Demi.Hawks.And.Pristine.Edge.Bad.Stepmom.XXX.480p.MP4-XXX[XC]/momsteachsex.23.10.29.demi.hawks.and.pristine.edge.bad.stepmom.480p.mp4) error: Permission denied"
-(N) 2023-10-30T18:47:38 - Enqueued torrent move. Torrent: "DadCrush 23 10 24 Molly Little Dont Be A Party Pooper XXX 480p". Source: "/home/skladiste/Downloads". Destination: "/home/lazar/Downloads/.p"
-(N) 2023-10-30T18:47:38 - Start moving torrent. Torrent: "DadCrush 23 10 24 Molly Little Dont Be A Party Pooper XXX 480p". Destination: "/home/lazar/Downloads/.p"
-(N) 2023-10-30T18:47:38 - Enqueued torrent move. Torrent: "MomsTeachSex 23 10 29 Demi Hawks And Pristine Edge Bad Stepmom". Source: "/home/skladiste/Downloads". Destination: "/home/lazar/Downloads/.p"
-(N) 2023-10-30T18:47:38 - Enqueued torrent move. Torrent: "SisLovesMe 23 10 28 Chanel Camryn Shared Accummodation XXX 480p". Source: "/home/skladiste/Downloads". Destination: "/home/lazar/Downloads/.p"
-(N) 2023-10-30T18:47:38 - Enqueued torrent move. Torrent: "PervMom 23 10 29 Cory Chase Dick Or Cheat XXX 480p MP4-XXX [XC]". Source: "/home/skladiste/Downloads". Destination: "/home/lazar/Downloads/.p"
-(N) 2023-10-30T18:47:38 - Enqueued torrent move. Torrent: "OnlyFans - Blake Blossom Riding a Black Cock - BigTits BBC Hardcore 720p". Source: "/home/skladiste/Downloads". Destination: "/home/lazar/Downloads/.p"
-(N) 2023-10-30T18:47:38 - Moved torrent successfully. Torrent: "DadCrush 23 10 24 Molly Little Dont Be A Party Pooper XXX 480p". Destination: "/home/lazar/Downloads/.p"
-(N) 2023-10-30T18:47:38 - Start moving torrent. Torrent: "MomsTeachSex 23 10 29 Demi Hawks And Pristine Edge Bad Stepmom". Destination: "/home/lazar/Downloads/.p"
-(N) 2023-10-30T18:47:38 - Moved torrent successfully. Torrent: "MomsTeachSex 23 10 29 Demi Hawks And Pristine Edge Bad Stepmom". Destination: "/home/lazar/Downloads/.p"
-(N) 2023-10-30T18:47:38 - Start moving torrent. Torrent: "SisLovesMe 23 10 28 Chanel Camryn Shared Accummodation XXX 480p". Destination: "/home/lazar/Downloads/.p"
-(N) 2023-10-30T18:47:38 - Moved torrent successfully. Torrent: "SisLovesMe 23 10 28 Chanel Camryn Shared Accummodation XXX 480p". Destination: "/home/lazar/Downloads/.p"
-(N) 2023-10-30T18:47:38 - Start moving torrent. Torrent: "PervMom 23 10 29 Cory Chase Dick Or Cheat XXX 480p MP4-XXX [XC]". Destination: "/home/lazar/Downloads/.p"
-(N) 2023-10-30T18:47:38 - Moved torrent successfully. Torrent: "PervMom 23 10 29 Cory Chase Dick Or Cheat XXX 480p MP4-XXX [XC]". Destination: "/home/lazar/Downloads/.p"
-(N) 2023-10-30T18:47:38 - Start moving torrent. Torrent: "OnlyFans - Blake Blossom Riding a Black Cock - BigTits BBC Hardcore 720p". Destination: "/home/lazar/Downloads/.p"
-(N) 2023-10-30T18:47:38 - Moved torrent successfully. Torrent: "OnlyFans - Blake Blossom Riding a Black Cock - BigTits BBC Hardcore 720p". Destination: "/home/lazar/Downloads/.p"
-(N) 2023-10-30T18:48:51 - Torrent download finished. Torrent: "MomsTeachSex 23 10 29 Demi Hawks And Pristine Edge Bad Stepmom"
-(N) 2023-10-30T18:49:13 - Torrent download finished. Torrent: "SisLovesMe 23 10 28 Chanel Camryn Shared Accummodation XXX 480p"
-(N) 2023-10-30T18:49:25 - Torrent download finished. Torrent: "OnlyFans - Blake Blossom Riding a Black Cock - BigTits BBC Hardcore 720p"
-(N) 2023-10-30T18:49:28 - Torrent download finished. Torrent: "PervMom 23 10 29 Cory Chase Dick Or Cheat XXX 480p MP4-XXX [XC]"
-(N) 2023-10-30T18:49:34 - Torrent download finished. Torrent: "DadCrush 23 10 24 Molly Little Dont Be A Party Pooper XXX 480p"
-(N) 2023-10-30T18:49:46 - Removed torrent. Torrent: "DadCrush 23 10 24 Molly Little Dont Be A Party Pooper XXX 480p"
-(N) 2023-10-30T18:49:46 - Removed torrent. Torrent: "MomsTeachSex 23 10 29 Demi Hawks And Pristine Edge Bad Stepmom"
-(N) 2023-10-30T18:49:46 - Removed torrent. Torrent: "OnlyFans - Blake Blossom Riding a Black Cock - BigTits BBC Hardcore 720p"
-(N) 2023-10-30T18:49:46 - Removed torrent. Torrent: "PervMom 23 10 29 Cory Chase Dick Or Cheat XXX 480p MP4-XXX [XC]"
-(N) 2023-10-30T18:49:46 - Removed torrent. Torrent: "SisLovesMe 23 10 28 Chanel Camryn Shared Accummodation XXX 480p"
-(N) 2023-10-30T18:49:47 - qBittorrent termination initiated
-(I) 2023-10-30T18:49:47 - UPnP/NAT-PMP support: OFF
-(N) 2023-10-30T18:49:50 - qBittorrent is now ready to exit
-(N) 2024-03-24T11:20:34 - qBittorrent v4.5.4 started
-(N) 2024-03-24T11:20:34 - Using config directory: /home/lazar/.config/qBittorrent
-(N) 2024-03-24T11:20:34 - Trying to listen on the following list of IP addresses: "0.0.0.0:63644,[::]:63644"
-(I) 2024-03-24T11:20:34 - Peer ID: "-qB4540-"
-(I) 2024-03-24T11:20:34 - HTTP User-Agent: "qBittorrent/4.5.4"
-(I) 2024-03-24T11:20:34 - Distributed Hash Table (DHT) support: ON
-(I) 2024-03-24T11:20:34 - Local Peer Discovery support: ON
-(I) 2024-03-24T11:20:34 - Peer Exchange (PeX) support: ON
-(I) 2024-03-24T11:20:34 - Anonymous mode: OFF
-(I) 2024-03-24T11:20:34 - Encryption support: ON
-(I) 2024-03-24T11:20:34 - UPnP/NAT-PMP support: ON
-(I) 2024-03-24T11:20:34 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/63644"
-(I) 2024-03-24T11:20:34 - Successfully listening on IP. IP: "127.0.0.1". Port: "UDP/63644"
-(I) 2024-03-24T11:20:34 - Successfully listening on IP. IP: "192.168.0.23". Port: "TCP/63644"
-(I) 2024-03-24T11:20:34 - Successfully listening on IP. IP: "192.168.0.23". Port: "UDP/63644"
-(I) 2024-03-24T11:20:34 - Successfully listening on IP. IP: "::1". Port: "TCP/63644"
-(I) 2024-03-24T11:20:34 - Successfully listening on IP. IP: "::1". Port: "UDP/63644"
-(I) 2024-03-24T11:20:34 - Successfully listening on IP. IP: "fe80::6d8a:9ff9:1748:22b%enp3s0". Port: "TCP/63644"
-(I) 2024-03-24T11:20:34 - Successfully listening on IP. IP: "fe80::6d8a:9ff9:1748:22b%enp3s0". Port: "UDP/63644"
-(I) 2024-03-24T11:20:34 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sun Oct 1 02:09:28 2023.
-(I) 2024-03-24T11:20:34 - Detected external IP. IP: "188.246.35.186"
-(I) 2024-03-24T11:20:35 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Fri Mar 1 02:21:18 2024.
-(I) 2024-03-24T11:20:35 - Successfully updated IP geolocation database.
-(N) 2024-03-24T11:20:40 - qBittorrent termination initiated
-(I) 2024-03-24T11:20:40 - UPnP/NAT-PMP support: OFF
-(N) 2024-03-24T11:20:40 - qBittorrent is now ready to exit
-(N) 2024-04-11T08:22:41 - qBittorrent v4.5.4 started
-(N) 2024-04-11T08:22:41 - Using config directory: /home/lazar/.config/qBittorrent
-(N) 2024-04-11T08:22:41 - Trying to listen on the following list of IP addresses: "0.0.0.0:63644,[::]:63644"
-(I) 2024-04-11T08:22:41 - Peer ID: "-qB4540-"
-(I) 2024-04-11T08:22:41 - HTTP User-Agent: "qBittorrent/4.5.4"
-(I) 2024-04-11T08:22:41 - Distributed Hash Table (DHT) support: ON
-(I) 2024-04-11T08:22:41 - Local Peer Discovery support: ON
-(I) 2024-04-11T08:22:41 - Peer Exchange (PeX) support: ON
-(I) 2024-04-11T08:22:41 - Anonymous mode: OFF
-(I) 2024-04-11T08:22:41 - Encryption support: ON
-(I) 2024-04-11T08:22:41 - UPnP/NAT-PMP support: ON
-(I) 2024-04-11T08:22:41 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/63644"
-(I) 2024-04-11T08:22:41 - Successfully listening on IP. IP: "127.0.0.1". Port: "UDP/63644"
-(I) 2024-04-11T08:22:41 - Successfully listening on IP. IP: "192.168.0.23". Port: "TCP/63644"
-(I) 2024-04-11T08:22:41 - Successfully listening on IP. IP: "192.168.0.23". Port: "UDP/63644"
-(I) 2024-04-11T08:22:41 - Successfully listening on IP. IP: "::1". Port: "TCP/63644"
-(I) 2024-04-11T08:22:41 - Successfully listening on IP. IP: "::1". Port: "UDP/63644"
-(I) 2024-04-11T08:22:41 - Successfully listening on IP. IP: "fe80::6d8a:9ff9:1748:22b%enp3s0". Port: "TCP/63644"
-(I) 2024-04-11T08:22:41 - Successfully listening on IP. IP: "fe80::6d8a:9ff9:1748:22b%enp3s0". Port: "UDP/63644"
-(I) 2024-04-11T08:22:41 - Successfully listening on IP. IP: "fe80::488c:8ceb:1751:f7b6%enp3s0". Port: "TCP/63644"
-(I) 2024-04-11T08:22:41 - Successfully listening on IP. IP: "fe80::488c:8ceb:1751:f7b6%enp3s0". Port: "UDP/63644"
-(I) 2024-04-11T08:22:41 - Detected external IP. IP: "188.246.35.186"
-(I) 2024-04-11T08:22:41 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Fri Mar 1 02:21:18 2024.
-(I) 2024-04-11T08:22:42 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Apr 1 02:25:20 2024.
-(I) 2024-04-11T08:22:42 - Successfully updated IP geolocation database.
-(N) 2024-04-11T08:23:44 - qBittorrent v4.5.4 started
-(N) 2024-04-11T08:23:44 - Using config directory: /home/lazar/.config/qBittorrent
-(N) 2024-04-11T08:23:44 - qBittorrent termination initiated
-(N) 2024-04-11T08:23:44 - qBittorrent is now ready to exit
-(N) 2024-04-11T08:23:44 - Added new torrent. Torrent: "debian-12.5.0-amd64-netinst.iso"
-(W) 2024-04-11T08:23:46 - Received error message from URL seed. Torrent: "debian-12.5.0-amd64-netinst.iso". URL: "https://cdimage.debian.org/cdimage/archive/12.5.0/amd64/iso-cd/debian-12.5.0-amd64-netinst.iso". Message: "404 Not Found"
-(N) 2024-04-11T08:24:22 - Torrent download finished. Torrent: "debian-12.5.0-amd64-netinst.iso"
-(N) 2024-04-11T08:25:15 - qBittorrent v4.5.4 started
-(N) 2024-04-11T08:25:15 - Using config directory: /home/lazar/.config/qBittorrent
-(N) 2024-04-11T08:25:16 - qBittorrent termination initiated
-(N) 2024-04-11T08:25:16 - qBittorrent is now ready to exit
-(N) 2024-04-11T08:25:16 - Added new torrent. Torrent: "debian-live-12.5.0-amd64-lxqt.iso"
-(W) 2024-04-11T08:25:17 - Received error message from URL seed. Torrent: "debian-live-12.5.0-amd64-lxqt.iso". URL: "https://cdimage.debian.org/cdimage/release/12.5.0-live/iso-hybrid/debian-live-12.5.0-amd64-lxqt.iso". Message: "404 Not Found"
-(W) 2024-04-11T08:25:17 - Received error message from URL seed. Torrent: "debian-live-12.5.0-amd64-lxqt.iso". URL: "https://cdimage.debian.org/cdimage/archive/12.5.0-live/iso-hybrid/debian-live-12.5.0-amd64-lxqt.iso". Message: "404 Not Found"
-(N) 2024-04-11T08:27:58 - Torrent download finished. Torrent: "debian-live-12.5.0-amd64-lxqt.iso"
-(N) 2024-04-11T08:29:16 - Removed torrent. Torrent: "debian-12.5.0-amd64-netinst.iso"
-(N) 2024-04-11T08:29:18 - Removed torrent. Torrent: "debian-live-12.5.0-amd64-lxqt.iso"
-(N) 2024-04-11T08:29:22 - qBittorrent termination initiated
-(I) 2024-04-11T08:29:22 - UPnP/NAT-PMP support: OFF
-(N) 2024-04-11T08:29:22 - qBittorrent is now ready to exit
-(N) 2024-04-11T08:39:05 - qBittorrent v4.5.4 started
-(N) 2024-04-11T08:39:05 - Using config directory: /home/lazar/.config/qBittorrent
-(N) 2024-04-11T08:39:05 - Trying to listen on the following list of IP addresses: "0.0.0.0:63644,[::]:63644"
-(I) 2024-04-11T08:39:05 - Peer ID: "-qB4540-"
-(I) 2024-04-11T08:39:05 - HTTP User-Agent: "qBittorrent/4.5.4"
-(I) 2024-04-11T08:39:05 - Distributed Hash Table (DHT) support: ON
-(I) 2024-04-11T08:39:05 - Local Peer Discovery support: ON
-(I) 2024-04-11T08:39:05 - Peer Exchange (PeX) support: ON
-(I) 2024-04-11T08:39:05 - Anonymous mode: OFF
-(I) 2024-04-11T08:39:05 - Encryption support: ON
-(I) 2024-04-11T08:39:05 - UPnP/NAT-PMP support: ON
-(I) 2024-04-11T08:39:05 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/63644"
-(I) 2024-04-11T08:39:05 - Successfully listening on IP. IP: "127.0.0.1". Port: "UDP/63644"
-(I) 2024-04-11T08:39:05 - Successfully listening on IP. IP: "192.168.0.23". Port: "TCP/63644"
-(I) 2024-04-11T08:39:05 - Successfully listening on IP. IP: "192.168.0.23". Port: "UDP/63644"
-(I) 2024-04-11T08:39:05 - Successfully listening on IP. IP: "::1". Port: "TCP/63644"
-(I) 2024-04-11T08:39:05 - Successfully listening on IP. IP: "::1". Port: "UDP/63644"
-(I) 2024-04-11T08:39:05 - Successfully listening on IP. IP: "fe80::6d8a:9ff9:1748:22b%enp3s0". Port: "TCP/63644"
-(I) 2024-04-11T08:39:05 - Successfully listening on IP. IP: "fe80::6d8a:9ff9:1748:22b%enp3s0". Port: "UDP/63644"
-(I) 2024-04-11T08:39:05 - Successfully listening on IP. IP: "fe80::488c:8ceb:1751:f7b6%enp3s0". Port: "TCP/63644"
-(I) 2024-04-11T08:39:05 - Successfully listening on IP. IP: "fe80::488c:8ceb:1751:f7b6%enp3s0". Port: "UDP/63644"
-(I) 2024-04-11T08:39:05 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Apr 1 02:25:20 2024.
-(I) 2024-04-11T08:39:05 - Detected external IP. IP: "188.246.35.186"
-(N) 2024-04-11T08:39:12 - Added new torrent. Torrent: "debian-live-12.5.0-amd64-lxqt.iso"
-(N) 2024-04-11T08:39:34 - Torrent download finished. Torrent: "debian-live-12.5.0-amd64-lxqt.iso"
-(N) 2024-04-11T08:47:40 - qBittorrent termination initiated
-(I) 2024-04-11T08:47:40 - UPnP/NAT-PMP support: OFF
-(N) 2024-04-11T08:47:42 - qBittorrent is now ready to exit
-(N) 2024-04-18T19:02:45 - qBittorrent v4.5.4 started
-(N) 2024-04-18T19:02:45 - Using config directory: /home/lazar/.config/qBittorrent
-(N) 2024-04-18T19:02:45 - Trying to listen on the following list of IP addresses: "0.0.0.0:63644,[::]:63644"
-(I) 2024-04-18T19:02:45 - Peer ID: "-qB4540-"
-(I) 2024-04-18T19:02:45 - HTTP User-Agent: "qBittorrent/4.5.4"
-(I) 2024-04-18T19:02:45 - Distributed Hash Table (DHT) support: ON
-(I) 2024-04-18T19:02:45 - Local Peer Discovery support: ON
-(I) 2024-04-18T19:02:45 - Peer Exchange (PeX) support: ON
-(I) 2024-04-18T19:02:45 - Anonymous mode: OFF
-(I) 2024-04-18T19:02:45 - Encryption support: ON
-(I) 2024-04-18T19:02:45 - UPnP/NAT-PMP support: ON
-(I) 2024-04-18T19:02:45 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/63644"
-(I) 2024-04-18T19:02:45 - Successfully listening on IP. IP: "127.0.0.1". Port: "UDP/63644"
-(I) 2024-04-18T19:02:45 - Successfully listening on IP. IP: "192.168.0.23". Port: "TCP/63644"
-(I) 2024-04-18T19:02:45 - Successfully listening on IP. IP: "192.168.0.23". Port: "UDP/63644"
-(I) 2024-04-18T19:02:45 - Successfully listening on IP. IP: "::1". Port: "TCP/63644"
-(I) 2024-04-18T19:02:45 - Successfully listening on IP. IP: "::1". Port: "UDP/63644"
-(I) 2024-04-18T19:02:45 - Successfully listening on IP. IP: "fe80::6d8a:9ff9:1748:22b%enp3s0". Port: "TCP/63644"
-(I) 2024-04-18T19:02:45 - Successfully listening on IP. IP: "fe80::6d8a:9ff9:1748:22b%enp3s0". Port: "UDP/63644"
-(I) 2024-04-18T19:02:45 - Successfully listening on IP. IP: "fe80::488c:8ceb:1751:f7b6%enp3s0". Port: "TCP/63644"
-(I) 2024-04-18T19:02:45 - Successfully listening on IP. IP: "fe80::488c:8ceb:1751:f7b6%enp3s0". Port: "UDP/63644"
-(I) 2024-04-18T19:02:45 - Detected external IP. IP: "188.246.35.186"
-(N) 2024-04-18T19:02:45 - Restored torrent. Torrent: "debian-live-12.5.0-amd64-lxqt.iso"
-(I) 2024-04-18T19:02:45 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Apr 1 02:25:20 2024.
-(N) 2024-04-18T19:02:48 - Removed torrent. Torrent: "debian-live-12.5.0-amd64-lxqt.iso"
-(N) 2024-04-18T19:02:51 - Added new torrent. Torrent: "OnlyFans 2023 Janice Griffith And Girthmasterr XXX 1080p MP4-XX"
-(N) 2024-04-18T19:04:03 - Added new torrent. Torrent: "BrazzersExxtra 21 08 29 Janice Griffith Worst Roommate Ever  48"
-(N) 2024-04-18T19:09:50 - Torrent download finished. Torrent: "BrazzersExxtra 21 08 29 Janice Griffith Worst Roommate Ever  48"
-(N) 2024-04-18T19:12:20 - Torrent download finished. Torrent: "OnlyFans 2023 Janice Griffith And Girthmasterr XXX 1080p MP4-XX"
-(N) 2024-04-18T19:43:52 - Removed torrent. Torrent: "BrazzersExxtra 21 08 29 Janice Griffith Worst Roommate Ever  48"
-(N) 2024-04-18T19:43:52 - Removed torrent. Torrent: "OnlyFans 2023 Janice Griffith And Girthmasterr XXX 1080p MP4-XX"
-(N) 2024-04-18T19:43:55 - qBittorrent termination initiated
-(I) 2024-04-18T19:43:55 - UPnP/NAT-PMP support: OFF
-(N) 2024-04-18T19:43:55 - qBittorrent is now ready to exit
+(I) 2024-04-26T16:18:03 - HTTP User-Agent: "qBittorrent/4.5.4"
+(I) 2024-04-26T16:18:03 - Distributed Hash Table (DHT) support: ON
+(I) 2024-04-26T16:18:03 - Local Peer Discovery support: ON
+(I) 2024-04-26T16:18:03 - Peer Exchange (PeX) support: ON
+(I) 2024-04-26T16:18:03 - Anonymous mode: OFF
+(I) 2024-04-26T16:18:03 - Encryption support: ON
+(I) 2024-04-26T16:18:03 - UPnP/NAT-PMP support: ON
+(I) 2024-04-26T16:18:03 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/63644"
+(I) 2024-04-26T16:18:03 - Successfully listening on IP. IP: "127.0.0.1". Port: "UDP/63644"
+(I) 2024-04-26T16:18:03 - Successfully listening on IP. IP: "192.168.0.23". Port: "TCP/63644"
+(I) 2024-04-26T16:18:03 - Successfully listening on IP. IP: "192.168.0.23". Port: "UDP/63644"
+(I) 2024-04-26T16:18:03 - Successfully listening on IP. IP: "::1". Port: "TCP/63644"
+(I) 2024-04-26T16:18:03 - Successfully listening on IP. IP: "::1". Port: "UDP/63644"
+(I) 2024-04-26T16:18:03 - Successfully listening on IP. IP: "fe80::6d8a:9ff9:1748:22b%enp3s0". Port: "TCP/63644"
+(I) 2024-04-26T16:18:03 - Successfully listening on IP. IP: "fe80::6d8a:9ff9:1748:22b%enp3s0". Port: "UDP/63644"
+(I) 2024-04-26T16:18:03 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Apr 1 02:25:20 2024.
+(I) 2024-04-26T16:18:03 - Detected external IP. IP: "188.246.35.186"
+(N) 2024-04-26T16:18:11 - qBittorrent termination initiated
+(I) 2024-04-26T16:18:11 - UPnP/NAT-PMP support: OFF
+(N) 2024-04-26T16:18:11 - qBittorrent is now ready to exit
+(N) 2024-04-26T16:25:14 - qBittorrent v4.5.4 started
+(N) 2024-04-26T16:25:14 - Using config directory: /home/lazar/.config/qBittorrent
+(N) 2024-04-26T16:25:14 - Trying to listen on the following list of IP addresses: "0.0.0.0:63644,[::]:63644"
+(I) 2024-04-26T16:25:14 - Peer ID: "-qB4540-"
+(I) 2024-04-26T16:25:14 - HTTP User-Agent: "qBittorrent/4.5.4"
+(I) 2024-04-26T16:25:14 - Distributed Hash Table (DHT) support: ON
+(I) 2024-04-26T16:25:14 - Local Peer Discovery support: ON
+(I) 2024-04-26T16:25:14 - Peer Exchange (PeX) support: ON
+(I) 2024-04-26T16:25:14 - Anonymous mode: OFF
+(I) 2024-04-26T16:25:14 - Encryption support: ON
+(I) 2024-04-26T16:25:14 - UPnP/NAT-PMP support: ON
+(I) 2024-04-26T16:25:14 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/63644"
+(I) 2024-04-26T16:25:14 - Successfully listening on IP. IP: "127.0.0.1". Port: "UDP/63644"
+(I) 2024-04-26T16:25:14 - Successfully listening on IP. IP: "192.168.0.23". Port: "TCP/63644"
+(I) 2024-04-26T16:25:14 - Successfully listening on IP. IP: "192.168.0.23". Port: "UDP/63644"
+(I) 2024-04-26T16:25:14 - Successfully listening on IP. IP: "::1". Port: "TCP/63644"
+(I) 2024-04-26T16:25:14 - Successfully listening on IP. IP: "::1". Port: "UDP/63644"
+(I) 2024-04-26T16:25:14 - Successfully listening on IP. IP: "fe80::6d8a:9ff9:1748:22b%enp3s0". Port: "TCP/63644"
+(I) 2024-04-26T16:25:14 - Successfully listening on IP. IP: "fe80::6d8a:9ff9:1748:22b%enp3s0". Port: "UDP/63644"
+(I) 2024-04-26T16:25:14 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Apr 1 02:25:20 2024.
+(I) 2024-04-26T16:25:15 - Detected external IP. IP: "188.246.35.186"
+(N) 2024-04-26T16:25:19 - qBittorrent termination initiated
+(I) 2024-04-26T16:25:19 - UPnP/NAT-PMP support: OFF
+(N) 2024-04-26T16:25:20 - qBittorrent is now ready to exit
+(N) 2024-04-26T16:30:01 - qBittorrent v4.5.4 started
+(N) 2024-04-26T16:30:01 - Using config directory: /home/lazar/.config/qBittorrent
+(N) 2024-04-26T16:30:01 - Trying to listen on the following list of IP addresses: "0.0.0.0:63644,[::]:63644"
+(I) 2024-04-26T16:30:01 - Peer ID: "-qB4540-"
+(I) 2024-04-26T16:30:01 - HTTP User-Agent: "qBittorrent/4.5.4"
+(I) 2024-04-26T16:30:01 - Distributed Hash Table (DHT) support: ON
+(I) 2024-04-26T16:30:01 - Local Peer Discovery support: ON
+(I) 2024-04-26T16:30:01 - Peer Exchange (PeX) support: ON
+(I) 2024-04-26T16:30:01 - Anonymous mode: OFF
+(I) 2024-04-26T16:30:01 - Encryption support: ON
+(I) 2024-04-26T16:30:01 - UPnP/NAT-PMP support: ON
+(I) 2024-04-26T16:30:01 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/63644"
+(I) 2024-04-26T16:30:01 - Successfully listening on IP. IP: "127.0.0.1". Port: "UDP/63644"
+(I) 2024-04-26T16:30:01 - Successfully listening on IP. IP: "192.168.0.23". Port: "TCP/63644"
+(I) 2024-04-26T16:30:01 - Successfully listening on IP. IP: "192.168.0.23". Port: "UDP/63644"
+(I) 2024-04-26T16:30:01 - Successfully listening on IP. IP: "::1". Port: "TCP/63644"
+(I) 2024-04-26T16:30:01 - Successfully listening on IP. IP: "::1". Port: "UDP/63644"
+(I) 2024-04-26T16:30:01 - Successfully listening on IP. IP: "fe80::6d8a:9ff9:1748:22b%enp3s0". Port: "TCP/63644"
+(I) 2024-04-26T16:30:01 - Successfully listening on IP. IP: "fe80::6d8a:9ff9:1748:22b%enp3s0". Port: "UDP/63644"
+(I) 2024-04-26T16:30:01 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Apr 1 02:25:20 2024.
+(I) 2024-04-26T16:30:01 - Detected external IP. IP: "188.246.35.186"
+(N) 2024-04-26T16:30:14 - qBittorrent termination initiated
+(I) 2024-04-26T16:30:14 - UPnP/NAT-PMP support: OFF
+(N) 2024-04-26T16:30:14 - qBittorrent is now ready to exit

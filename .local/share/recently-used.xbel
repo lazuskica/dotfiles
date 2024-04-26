@@ -2739,4 +2739,24 @@ file:///home/lazar/Documents/x_close, file:///home/lazar/Documents/x_far</desc>
       </metadata>
     </info>
   </bookmark>
+  <bookmark href="file:///home/lazar/.config/sublime-text/Packages/User/Celeste.sublime-color-scheme" added="2024-04-25T18:52:49.098587Z" modified="2024-04-25T18:52:49.098592Z" visited="2024-04-25T18:52:49.098588Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;subl4 %u&apos;" modified="2024-04-25T18:52:49.098589Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lazar/.config/sublime-text/Packages/Color%20Scheme%20-%20Default/Celeste.sublime-color-scheme" added="2024-04-25T18:52:49.098608Z" modified="2024-04-25T18:52:49.098610Z" visited="2024-04-25T18:52:49.098608Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;subl4 %u&apos;" modified="2024-04-25T18:52:49.098609Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
 </xbel>
