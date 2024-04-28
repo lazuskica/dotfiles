@@ -49,6 +49,7 @@ static const Rule rules[] = {
 	{ "Gimp",		NULL,	NULL,	1 << 1,		0,	     	-1 },
 	{ "STM32CubeIDE",	NULL,	NULL,	1 << 1,		0,		-1 },
 	{ "Stm32cubeide",	NULL,	NULL,	1 << 1,		0,		-1 },
+	{ "Qalculate",		NULL,	NULL,	NULL,		1,		-1 },
 };
 
 /* layout(s) */
@@ -94,22 +95,19 @@ static const Key keys[] = {
 	{ MODKEY,                       XK_Return, zoom,           {0} },
 	{ MODKEY,                       XK_Tab,    view,           {0} },
 	{ MODKEY|ShiftMask,             XK_q,      killclient,     {0} },
-//	{ MODKEY,                       XK_space,  setlayout,      {0} },
 	{ MODKEY,	                XK_space,  togglefloating, {0} },
-	{ MODKEY,                       XK_0,      view,           {.ui = ~0 } },
-	{ MODKEY|ShiftMask,             XK_0,      tag,            {.ui = ~0 } },
 //	sledeca 4 su za multimonitor
 	{ MODKEY,                       XK_Left,  focusmon,       {.i = -1 } },
 	{ MODKEY,                       XK_Right, focusmon,       {.i = +1 } },
 	{ MODKEY|ShiftMask,             XK_Left,  tagmon,         {.i = -1 } },
 	{ MODKEY|ShiftMask,             XK_Right, tagmon,         {.i = +1 } },
-	{ ShiftMask,			XK_Alt_L, spawn,	   SHCMD("toggle_kbd.sh | pkill -RTMIN+11 dwmblocks") },
-	{ 0,				XK_F2,   spawn,	   SHCMD("pamixer -d 4 | pkill -RTMIN+10 dwmblocks") },
-	{ 0,				XK_F3,   spawn,	   SHCMD("pamixer -i 4 | pkill -RTMIN+10 dwmblocks") },
-	{ 0,				XK_F4,   spawn,	   SHCMD("pamixer -t | pkill -RTMIN+10 dwmblocks") },
-	{ MODKEY,                       XK_minus,  setgaps,        {.i = -1 } },
-	{ MODKEY,                       XK_equal,  setgaps,        {.i = +1 } },
-	{ MODKEY|ShiftMask,             XK_equal,  setgaps,        {.i = 0  } },
+	{ ShiftMask,			XK_Alt_L, spawn,	   SHCMD("pkill -RTMIN+11 dwmblocks") },
+	{ MODKEY,			XK_minus,   	spawn,	   SHCMD("pamixer -d 4 | pkill -RTMIN+10 dwmblocks") },
+	{ MODKEY,			XK_equal,   	spawn,	   SHCMD("pamixer -i 4 | pkill -RTMIN+10 dwmblocks") },
+	{ MODKEY,			XK_0,   	spawn,	   SHCMD("pamixer -t | pkill -RTMIN+10 dwmblocks") },
+	//{ MODKEY,                       XK_minus,  setgaps,        {.i = -1 } },
+	//{ MODKEY,                       XK_equal,  setgaps,        {.i = +1 } },
+	//{ MODKEY|ShiftMask,             XK_equal,  setgaps,        {.i = 0  } },
 	TAGKEYS(                        XK_1,                      0)
  	TAGKEYS(                        XK_2,                      1)
  	TAGKEYS(                        XK_3,                      2)

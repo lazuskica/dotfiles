@@ -3,44 +3,34 @@
       xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
       xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
 >
-  <bookmark href="file:///home/lazar/Downloads" added="2023-09-24T16:10:06.805380Z" modified="2024-04-25T15:13:58.520615Z" visited="2023-09-24T16:10:06.805381Z">
+  <bookmark href="file:///home/lazar/Downloads" added="2023-09-24T16:10:06.805380Z" modified="2024-04-27T12:05:06.942905Z" visited="2023-09-24T16:10:06.805381Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-04-25T15:13:58.520613Z" count="27"/>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-04-27T12:05:06.942903Z" count="35"/>
           <bookmark:application name="qbittorrent" exec="&apos;qbittorrent %u&apos;" modified="2023-09-25T12:20:32.236387Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/lazar/Dropbox/tabele/masa.ods" added="2024-03-24T08:40:44.829162Z" modified="2024-04-22T11:51:18.202171Z" visited="2024-03-24T08:40:44.829162Z">
+  <bookmark href="file:///home/lazar/Dropbox/tabele/masa.ods" added="2024-03-24T08:40:44.829162Z" modified="2024-04-28T06:14:58.199424Z" visited="2024-03-24T08:40:44.829162Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="application/vnd.oasis.opendocument.spreadsheet"/>
         <bookmark:applications>
-          <bookmark:application name="LibreOffice 24.2" exec="&apos;soffice %u&apos;" modified="2024-04-22T11:51:18.202171Z" count="82"/>
-          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-04-22T11:50:58.005916Z" count="11"/>
+          <bookmark:application name="LibreOffice 24.2" exec="&apos;soffice %u&apos;" modified="2024-04-28T06:14:58.199424Z" count="92"/>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-04-28T06:13:03.789091Z" count="13"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/lazar/Dropbox" added="2024-03-24T10:00:00.429116Z" modified="2024-04-25T15:14:11.062574Z" visited="2024-03-24T10:00:00.429117Z">
+  <bookmark href="file:///home/lazar/Dropbox" added="2024-03-24T10:00:00.429116Z" modified="2024-04-28T06:12:54.368165Z" visited="2024-03-24T10:00:00.429117Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-04-25T15:14:11.062571Z" count="45"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/lazar/Dropbox/praksa" added="2024-03-24T10:00:04.879293Z" modified="2024-03-28T05:10:21.956766Z" visited="2024-03-24T10:00:04.879294Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="inode/directory"/>
-        <bookmark:applications>
-          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-28T05:10:21.956764Z" count="4"/>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-04-28T06:12:54.368162Z" count="51"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -71,16 +61,6 @@
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
           <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-04-21T14:52:29.942912Z" count="9"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/skladiste/Downloads/WhatsApp%20Image%202023-10-27%20at%2019.52.09.jpeg" added="2024-03-24T10:00:57.450788Z" modified="2024-03-28T05:12:25.627128Z" visited="2024-03-24T10:00:57.450789Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="image/jpeg"/>
-        <bookmark:applications>
-          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-28T05:12:25.627125Z" count="2"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -157,12 +137,12 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/lazar/Dropbox/tabele" added="2024-03-25T06:08:08.320590Z" modified="2024-04-25T15:14:17.175977Z" visited="2024-03-25T06:08:08.320591Z">
+  <bookmark href="file:///home/lazar/Dropbox/tabele" added="2024-03-25T06:08:08.320590Z" modified="2024-04-28T06:12:59.439014Z" visited="2024-03-25T06:08:08.320591Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-04-25T15:14:17.175975Z" count="14"/>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-04-28T06:12:59.439011Z" count="17"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -220,113 +200,6 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/lazar/Documents/x_far" added="2024-03-27T18:24:26.896725Z" modified="2024-03-27T18:24:26.896732Z" visited="2024-03-27T18:24:26.896726Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/octet-stream"/>
-        <bookmark:applications>
-          <bookmark:application name="Meld" exec="&apos;org.gnome.Meld %u&apos;" modified="2024-03-27T18:24:26.896729Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/lazar/.local/share/meld/recent-hu0046j7.meldcmp" added="2024-03-27T18:24:27.814821Z" modified="2024-03-27T18:24:27.814827Z" visited="2024-03-27T18:24:27.814822Z">
-    <title>x_close : x_far</title>
-    <desc>File comparison
-file:///home/lazar/Documents/x_close, file:///home/lazar/Documents/x_far</desc>
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-meld-comparison"/>
-        <bookmark:applications>
-          <bookmark:application name="Meld" exec="&apos;/usr/bin/meld --comparison-file %u&apos;" modified="2024-03-27T18:24:27.814825Z" count="1"/>
-        </bookmark:applications>
-        <bookmark:private/>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/skladiste/Downloads/sert1.pdf" added="2024-03-28T05:12:52.853464Z" modified="2024-03-28T05:12:52.853469Z" visited="2024-03-28T05:12:52.853465Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/pdf"/>
-        <bookmark:applications>
-          <bookmark:application name="Atril Document Viewer" exec="&apos;atril %u&apos;" modified="2024-03-28T05:12:52.853466Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/skladiste/Downloads/Dutchmogul" added="2024-03-28T05:13:04.024787Z" modified="2024-03-28T05:13:04.024794Z" visited="2024-03-28T05:13:04.024788Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="inode/directory"/>
-        <bookmark:applications>
-          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-28T05:13:04.024790Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/skladiste/Downloads/Yontrader" added="2024-03-28T05:13:10.097039Z" modified="2024-03-28T05:13:10.097045Z" visited="2024-03-28T05:13:10.097040Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="inode/directory"/>
-        <bookmark:applications>
-          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-28T05:13:10.097042Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/skladiste/Downloads/briteminis" added="2024-03-28T05:13:14.013471Z" modified="2024-03-28T05:13:14.013478Z" visited="2024-03-28T05:13:14.013472Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="inode/directory"/>
-        <bookmark:applications>
-          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-28T05:13:14.013474Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/skladiste/Downloads/minis" added="2024-03-28T05:13:16.357776Z" modified="2024-03-28T05:13:16.357781Z" visited="2024-03-28T05:13:16.357777Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="inode/directory"/>
-        <bookmark:applications>
-          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-28T05:13:16.357779Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/lazar/Pictures/IMG_9572.JPG" added="2024-03-28T05:36:09.338732Z" modified="2024-03-28T05:36:58.005650Z" visited="2024-03-28T05:36:09.338733Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="image/jpeg"/>
-        <bookmark:groups>
-          <bookmark:group>Graphics</bookmark:group>
-        </bookmark:groups>
-        <bookmark:applications>
-          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2024-03-28T05:36:58.005647Z" count="4"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/lazar/Pictures" added="2024-03-28T05:37:07.924325Z" modified="2024-03-28T05:37:07.924329Z" visited="2024-03-28T05:37:07.924326Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="inode/directory"/>
-        <bookmark:applications>
-          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-28T05:37:07.924327Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/lazar/Dropbox/Lazar_Popadic_cv_2024.pdf" added="2024-03-28T06:18:16.084888Z" modified="2024-03-28T06:18:16.084892Z" visited="2024-03-28T06:18:16.084888Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/pdf"/>
-        <bookmark:applications>
-          <bookmark:application name="Atril Document Viewer" exec="&apos;atril %u&apos;" modified="2024-03-28T06:18:16.084890Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
   <bookmark href="file:///home/skladiste/.p/DadCrush.23.10.24.Molly.Little.Dont.Be.A.Party.Pooper.XXX.480p.MP4-XXX%5BXC%5D" added="2024-03-28T06:48:53.534820Z" modified="2024-04-10T09:31:37.104427Z" visited="2024-03-28T06:48:53.534821Z">
     <info>
       <metadata owner="http://freedesktop.org">
@@ -380,12 +253,12 @@ file:///home/lazar/Documents/x_close, file:///home/lazar/Documents/x_far</desc>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/lazar/Dropbox/robot" added="2024-03-29T19:08:01.174529Z" modified="2024-04-25T15:14:18.843955Z" visited="2024-03-29T19:08:01.174530Z">
+  <bookmark href="file:///home/lazar/Dropbox/robot" added="2024-03-29T19:08:01.174529Z" modified="2024-04-27T13:07:57.662327Z" visited="2024-03-29T19:08:01.174530Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-04-25T15:14:18.843952Z" count="14"/>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-04-27T13:07:57.662324Z" count="16"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -420,27 +293,27 @@ file:///home/lazar/Documents/x_close, file:///home/lazar/Documents/x_far</desc>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/lazar/Dropbox/robot/2024" added="2024-03-31T08:58:02.389376Z" modified="2024-04-25T15:14:29.697048Z" visited="2024-03-31T08:58:02.389377Z">
+  <bookmark href="file:///home/lazar/Dropbox/robot/2024" added="2024-03-31T08:58:02.389376Z" modified="2024-04-27T14:07:41.597243Z" visited="2024-03-31T08:58:02.389377Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-04-25T15:14:29.697043Z" count="6"/>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-04-27T14:07:41.597240Z" count="7"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/lazar/Dropbox/robot/taktike" added="2024-03-31T08:58:41.199148Z" modified="2024-04-25T15:14:38.536717Z" visited="2024-03-31T08:58:41.199149Z">
+  <bookmark href="file:///home/lazar/Dropbox/robot/taktike" added="2024-03-31T08:58:41.199148Z" modified="2024-04-27T14:50:22.815705Z" visited="2024-03-31T08:58:41.199149Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-04-25T15:14:38.536714Z" count="5"/>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-04-27T14:50:22.815702Z" count="11"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/lazar/Dropbox/robot/taktike/sto.PNG" added="2024-03-31T08:59:08.373047Z" modified="2024-03-31T08:59:08.373052Z" visited="2024-03-31T08:59:08.373048Z">
+  <bookmark href="file:///home/lazar/Dropbox/robot/taktike/sto.PNG" added="2024-03-31T08:59:08.373047Z" modified="2024-04-27T12:56:23.985318Z" visited="2024-03-31T08:59:08.373048Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/png"/>
@@ -448,7 +321,7 @@ file:///home/lazar/Documents/x_close, file:///home/lazar/Documents/x_far</desc>
           <bookmark:group>Graphics</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="ristretto" exec="&apos;ristretto %u&apos;" modified="2024-03-31T08:59:08.373050Z" count="1"/>
+          <bookmark:application name="ristretto" exec="&apos;ristretto %u&apos;" modified="2024-04-27T12:56:23.985315Z" count="2"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -988,12 +861,12 @@ file:///home/lazar/Documents/x_close, file:///home/lazar/Documents/x_far</desc>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///usr" added="2024-04-08T10:36:12.406769Z" modified="2024-04-15T08:35:34.832067Z" visited="2024-04-08T10:36:12.406770Z">
+  <bookmark href="file:///usr" added="2024-04-08T10:36:12.406769Z" modified="2024-04-27T11:31:18.356545Z" visited="2024-04-08T10:36:12.406770Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-04-15T08:35:34.832064Z" count="3"/>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-04-27T11:31:18.356543Z" count="4"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -1068,12 +941,12 @@ file:///home/lazar/Documents/x_close, file:///home/lazar/Documents/x_far</desc>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///usr/bin" added="2024-04-08T10:44:20.666416Z" modified="2024-04-15T08:54:05.142249Z" visited="2024-04-08T10:44:20.666417Z">
+  <bookmark href="file:///usr/bin" added="2024-04-08T10:44:20.666416Z" modified="2024-04-27T11:31:47.527400Z" visited="2024-04-08T10:44:20.666417Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-04-15T08:54:05.142246Z" count="2"/>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-04-27T11:31:47.527397Z" count="3"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -1601,12 +1474,12 @@ file:///home/lazar/Documents/x_close, file:///home/lazar/Documents/x_far</desc>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///usr/share" added="2024-04-15T09:02:57.799450Z" modified="2024-04-15T09:02:57.799457Z" visited="2024-04-15T09:02:57.799452Z">
+  <bookmark href="file:///usr/share" added="2024-04-15T09:02:57.799450Z" modified="2024-04-27T11:31:19.984377Z" visited="2024-04-15T09:02:57.799452Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-04-15T09:02:57.799454Z" count="1"/>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-04-27T11:31:19.984374Z" count="2"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -2094,12 +1967,12 @@ file:///home/lazar/Documents/x_close, file:///home/lazar/Documents/x_far</desc>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/lazar/Downloads/sensors-23-03074.pdf" added="2024-04-21T15:43:26.272621Z" modified="2024-04-21T15:43:26.272625Z" visited="2024-04-21T15:43:26.272622Z">
+  <bookmark href="file:///home/lazar/Downloads/sensors-23-03074.pdf" added="2024-04-21T15:43:26.272621Z" modified="2024-04-27T12:00:17.992382Z" visited="2024-04-21T15:43:26.272622Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="application/pdf"/>
         <bookmark:applications>
-          <bookmark:application name="Atril Document Viewer" exec="&apos;atril %u&apos;" modified="2024-04-21T15:43:26.272623Z" count="1"/>
+          <bookmark:application name="Atril Document Viewer" exec="&apos;atril %u&apos;" modified="2024-04-27T12:00:17.992377Z" count="2"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -2232,12 +2105,12 @@ file:///home/lazar/Documents/x_close, file:///home/lazar/Documents/x_far</desc>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/lazar/Dropbox/robot/elaborat" added="2024-04-25T08:20:52.777426Z" modified="2024-04-25T15:14:26.957355Z" visited="2024-04-25T08:20:52.777427Z">
+  <bookmark href="file:///home/lazar/Dropbox/robot/elaborat" added="2024-04-25T08:20:52.777426Z" modified="2024-04-27T15:19:59.062703Z" visited="2024-04-25T08:20:52.777427Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-04-25T15:14:26.957352Z" count="9"/>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-04-27T15:19:59.062700Z" count="12"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -2608,12 +2481,12 @@ file:///home/lazar/Documents/x_close, file:///home/lazar/Documents/x_far</desc>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/lazar/Dropbox/slike" added="2024-04-25T15:08:38.614843Z" modified="2024-04-25T15:08:38.614849Z" visited="2024-04-25T15:08:38.614844Z">
+  <bookmark href="file:///home/lazar/Dropbox/slike" added="2024-04-25T15:08:38.614843Z" modified="2024-04-26T15:08:56.926570Z" visited="2024-04-25T15:08:38.614844Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-04-25T15:08:38.614846Z" count="1"/>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-04-26T15:08:56.926567Z" count="2"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -2639,12 +2512,12 @@ file:///home/lazar/Documents/x_close, file:///home/lazar/Documents/x_far</desc>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/lazar/Dropbox/robot/docs" added="2024-04-25T15:13:44.784908Z" modified="2024-04-25T15:14:32.517418Z" visited="2024-04-25T15:13:44.784910Z">
+  <bookmark href="file:///home/lazar/Dropbox/robot/docs" added="2024-04-25T15:13:44.784908Z" modified="2024-04-27T14:07:35.125659Z" visited="2024-04-25T15:13:44.784910Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-04-25T15:14:32.517415Z" count="2"/>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-04-27T14:07:35.125656Z" count="3"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -2755,6 +2628,252 @@ file:///home/lazar/Documents/x_close, file:///home/lazar/Documents/x_far</desc>
         <mime:mime-type type="application/octet-stream"/>
         <bookmark:applications>
           <bookmark:application name="Sublime Text" exec="&apos;subl4 %u&apos;" modified="2024-04-25T18:52:49.098609Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lazar/Dropbox/slike/berserk_rice_1.png" added="2024-04-26T15:08:17.936798Z" modified="2024-04-26T15:08:58.253263Z" visited="2024-04-26T15:08:17.936799Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2024-04-26T15:08:23.085796Z" count="2"/>
+          <bookmark:application name="ristretto" exec="&apos;ristretto %u&apos;" modified="2024-04-26T15:08:58.253260Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lazar/Dropbox/slike/berserk_rice_2.png" added="2024-04-26T15:08:38.564729Z" modified="2024-04-26T15:08:41.425477Z" visited="2024-04-26T15:08:38.564730Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2024-04-26T15:08:41.425476Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lazar/Downloads/23.04.%20Nacrt%20ugovora%20o%20radu%20Ospita%20RT%20fin%204%20Andrea.doc" added="2024-04-26T15:12:09.052985Z" modified="2024-04-26T15:12:13.320656Z" visited="2024-04-26T15:12:09.052986Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/msword"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-04-26T15:12:09.052988Z" count="1"/>
+          <bookmark:application name="LibreOffice 24.2" exec="&apos;soffice %u&apos;" modified="2024-04-26T15:12:13.320654Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lazar/Downloads/I%20test%20za%20pripremu.pdf" added="2024-04-26T15:13:16.585589Z" modified="2024-04-26T15:24:11.955989Z" visited="2024-04-26T15:13:16.585590Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-04-26T15:13:16.585592Z" count="1"/>
+          <bookmark:application name="Atril Document Viewer" exec="&apos;atril %u&apos;" modified="2024-04-26T15:24:11.955987Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lazar/Downloads/II%20test%20-%20za%20pripremu.pdf" added="2024-04-26T15:13:21.597874Z" modified="2024-04-26T15:24:49.208404Z" visited="2024-04-26T15:13:21.597875Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Atril Document Viewer" exec="&apos;atril %u&apos;" modified="2024-04-26T15:24:49.208402Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/previewDLWZM2.pdf" added="2024-04-26T15:16:52.597375Z" modified="2024-04-26T15:16:52.597379Z" visited="2024-04-26T15:16:52.597376Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Atril Document Viewer" exec="&apos;atril %u&apos;" modified="2024-04-26T15:16:52.597377Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lazar/Downloads/23.04.%20Nacrt%20ugovora%20o%20radu%20Ospita%20RT%20fin%204%20Andrea.doc%20(1).pdf" added="2024-04-26T15:26:11.775595Z" modified="2024-04-26T15:26:11.775600Z" visited="2024-04-26T15:26:11.775596Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Atril Document Viewer" exec="&apos;atril %u&apos;" modified="2024-04-26T15:26:11.775597Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lazar/Dropbox/tabele/trcanje.ods" added="2024-04-27T07:28:42.909141Z" modified="2024-04-27T07:30:15.765629Z" visited="2024-04-27T07:28:42.909143Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.spreadsheet"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-04-27T07:28:42.909145Z" count="1"/>
+          <bookmark:application name="LibreOffice 24.2" exec="&apos;soffice %u&apos;" modified="2024-04-27T07:30:15.765628Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lazar/Downloads/OrcaSlicer_Linux_V2.0.0.AppImage" added="2024-04-27T12:00:31.367276Z" modified="2024-04-27T12:01:01.302223Z" visited="2024-04-27T12:00:31.367277Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.appimage"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-04-27T12:01:01.302221Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lazar/Dropbox/robot/taktike/sto.pdf" added="2024-04-27T12:55:17.107084Z" modified="2024-04-27T12:56:30.368896Z" visited="2024-04-27T12:55:17.107085Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Atril Document Viewer" exec="&apos;atril %u&apos;" modified="2024-04-27T12:56:30.368893Z" count="2"/>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-04-27T12:56:29.716506Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lazar/Dropbox/robot/taktike/oznake.PNG" added="2024-04-27T12:56:27.942082Z" modified="2024-04-27T12:56:27.942088Z" visited="2024-04-27T12:56:27.942082Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="ristretto" exec="&apos;ristretto %u&apos;" modified="2024-04-27T12:56:27.942085Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lazar/Dropbox/robot/Eurobot2024_Rules_CUP_EN_FINAL.pdf" added="2024-04-27T12:56:42.292283Z" modified="2024-04-27T13:08:03.706031Z" visited="2024-04-27T12:56:42.292285Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Atril Document Viewer" exec="&apos;atril %u&apos;" modified="2024-04-27T13:08:03.706029Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lazar/Dropbox/robot/taktike/mv2.xcf" added="2024-04-27T13:36:46.172599Z" modified="2024-04-27T15:01:34.882339Z" visited="2024-04-27T13:36:46.172601Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/x-xcf"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2024-04-27T15:01:34.882336Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lazar/Dropbox/robot/taktike/4.xcf" added="2024-04-27T13:38:07.232645Z" modified="2024-04-27T14:15:36.882765Z" visited="2024-04-27T13:38:07.232646Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/x-xcf"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2024-04-27T14:15:36.882763Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lazar/Dropbox/robot/taktike/4.png" added="2024-04-27T14:00:21.180741Z" modified="2024-04-27T14:15:42.941230Z" visited="2024-04-27T14:00:21.180743Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2024-04-27T14:15:42.941228Z" count="4"/>
+          <bookmark:application name="Sublime Text" exec="&apos;subl4 %u&apos;" modified="2024-04-27T14:11:16.224611Z" count="1"/>
+          <bookmark:application name="ristretto" exec="&apos;ristretto %u&apos;" modified="2024-04-27T14:11:31.548357Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lazar/Dropbox/robot/taktike/mv2.png" added="2024-04-27T14:00:26.312916Z" modified="2024-04-27T14:34:58.983488Z" visited="2024-04-27T14:00:26.312917Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2024-04-27T14:15:48.481438Z" count="4"/>
+          <bookmark:application name="ristretto" exec="&apos;ristretto %u&apos;" modified="2024-04-27T14:34:58.983487Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lazar/Dropbox/robot/elaborat/strategija%203" added="2024-04-27T14:34:51.688975Z" modified="2024-04-27T14:34:51.688983Z" visited="2024-04-27T14:34:51.688976Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 24.2" exec="&apos;soffice %u&apos;" modified="2024-04-27T14:34:51.688978Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lazar/Dropbox/robot/elaborat/strategija%203.odt" added="2024-04-27T14:34:52.656968Z" modified="2024-04-27T15:19:54.871965Z" visited="2024-04-27T14:34:52.656968Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 24.2" exec="&apos;soffice %u&apos;" modified="2024-04-27T15:19:54.871964Z" count="16"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lazar/Dropbox/robot/taktike/mv2_alt1.png" added="2024-04-27T15:01:39.857059Z" modified="2024-04-27T15:01:42.316045Z" visited="2024-04-27T15:01:39.857060Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2024-04-27T15:01:42.316043Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lazar/Dropbox/robot/elaborat/strategije.odt" added="2024-04-27T15:20:24.597737Z" modified="2024-04-27T15:20:27.131734Z" visited="2024-04-27T15:20:24.597738Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-04-27T15:20:24.597740Z" count="1"/>
+          <bookmark:application name="LibreOffice 24.2" exec="&apos;soffice %u&apos;" modified="2024-04-27T15:20:27.131732Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lazar/Dropbox/faks/diplomski/torque_controll_xl330.png" added="2024-04-28T06:23:34.485936Z" modified="2024-04-28T06:23:36.091644Z" visited="2024-04-28T06:23:34.485937Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2024-04-28T06:23:36.091641Z" count="2"/>
         </bookmark:applications>
       </metadata>
     </info>

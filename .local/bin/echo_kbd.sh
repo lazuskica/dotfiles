@@ -1,17 +1,17 @@
 #!/bin/bash
 
 # Get current keyboard layout
-layout=$(setxkbmap -v | awk -F + '/symbols/ {print $2}')
+layout=$(xkblayout-state print "%s(%e)")
 
 # Depending on the keyboard layout, run one of three commands
 case $layout in
-    "us")
-        echo "󰥻 eng"
+	"us(basic)")
+        	echo "󰥻 eng"
         ;;
-    "rs")
-	echo "󰥻 срб"
+	"rs(basic)")
+		echo "󰥻 срб"
         ;;
-    "rs(latin)")
-        echo "󰥻 srb"
+    	"rs(latin)")
+        	echo "󰥻 srb"
         ;;
 esac
