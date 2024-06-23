@@ -15,12 +15,12 @@ static const int systraypinningfailfirst = 1;   /* 1: if pinning fails, display 
 static const int showsystray             = 1;   /* 0 means no systray */
 static const char *fonts[]          = { "BitstromWera Nerd Font:size=11" };
 static const char dmenufont[]       = "BitstromWera Nerd Font:size=11";
-static const char dmenu_w[]	= "152";
-static const char dmenu_y[]	= "4";
-static const char dmenu_x[]	= "4";
-static const char col_2[]       = "#202020";
-static const char col_1[]       = "#e0e0e0";
-static const unsigned int baralpha = 0xcf;
+static const char dmenu_w[]	= "400";
+static const char dmenu_y[]	= "32";
+static const char dmenu_x[]	= "760";
+static const char col_1[]       = "#2c060f";
+static const char col_2[]       = "#af8c4d";
+static const unsigned int baralpha = 0xa4;
 static const unsigned int borderalpha = OPAQUE;
 static const char *colors[][3]      = {
 	/*               fg         bg         border   */
@@ -46,10 +46,10 @@ static const Rule rules[] = {
 	{ "Brave",		NULL,   NULL,	1 << 0,		0,           	-1 },
 	{ "Clementine",		NULL,   NULL,	1 << 7,		0,           	-1 },
 	{ "qBittorrent",	NULL,	NULL,	1 << 8,		0,	     	-1 },
-	{ "Gimp",		NULL,	NULL,	1 << 1,		0,	     	-1 },
 	{ "STM32CubeIDE",	NULL,	NULL,	1 << 1,		0,		-1 },
 	{ "Stm32cubeide",	NULL,	NULL,	1 << 1,		0,		-1 },
 	{ "Qalculate",		NULL,	NULL,	NULL,		1,		-1 },
+	{ "Ferdium",		NULL,	NULL,	NULL,		0,		-1 },
 };
 
 /* layout(s) */
@@ -97,10 +97,10 @@ static const Key keys[] = {
 	{ MODKEY|ShiftMask,             XK_q,      killclient,     {0} },
 	{ MODKEY,	                XK_space,  togglefloating, {0} },
 //	sledeca 4 su za multimonitor
-	{ MODKEY,                       XK_Left,  focusmon,       {.i = -1 } },
-	{ MODKEY,                       XK_Right, focusmon,       {.i = +1 } },
-	{ MODKEY|ShiftMask,             XK_Left,  tagmon,         {.i = -1 } },
-	{ MODKEY|ShiftMask,             XK_Right, tagmon,         {.i = +1 } },
+	{ MODKEY,                       XK_comma,  focusmon,       {.i = -1 } },
+	{ MODKEY,                       XK_period, focusmon,       {.i = +1 } },
+	{ MODKEY|ShiftMask,             XK_comma,  tagmon,         {.i = -1 } },
+	{ MODKEY|ShiftMask,             XK_period, tagmon,         {.i = +1 } },
 	{ ShiftMask,			XK_Alt_L, spawn,	   SHCMD("pkill -RTMIN+11 dwmblocks") },
 	{ MODKEY,			XK_minus,   	spawn,	   SHCMD("pamixer -d 4 | pkill -RTMIN+10 dwmblocks") },
 	{ MODKEY,			XK_equal,   	spawn,	   SHCMD("pamixer -i 4 | pkill -RTMIN+10 dwmblocks") },

@@ -1,9 +1,3 @@
-shell patch -p1 < dwm-blanktags-20210406-67d76bd.diff
-shell tar -cf dwm.sphynx.tar dwm dmenu
-shell patch -p1 -R < dwm.suckless.org_patches_alpha_dwm-alpha-20230401-348f655.diff
-shell patch -p1 < dwm-systray-6.4.diff
-shell patch -p1 < dwm-fixborders-6.2.diff
-rename config.h.
 shell tar -cf dwm.tar dwm
 shell patch -p1 -R dwm-blanktags-20210406-67d76bd.diff
 shell patch -p1 -R < dwm-blanktags-20210406-67d76bd.diff
@@ -35,7 +29,6 @@ shell cp config.h config.h.inanna
 shell sudo cp config.def.h config.h
 shell sudo make clean install
 search .con
-search .config
 search picom
 open_with q
 search .conf
@@ -48,3 +41,10 @@ delete
 search .loc
 search 
 search .loca
+search pulse
+search alsa
+search .config
+;
+search brave
+search ferdium
+search Ferdium

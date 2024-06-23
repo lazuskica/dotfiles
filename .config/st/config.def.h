@@ -127,15 +127,18 @@ static const char *colorname[] = {
 	"#555555",
 	"gray90", /* default foreground colour */
 	"black", /* default background colour */
-	/* mythen: 261, 260 */
+	/* mythen: 	261, 260	*/
 	"#393939",	/* gray */
 	"#eae3d4",	/* creme */
-	/* converging ages: 263, 262 */
+	/* converging:	263, 262	*/
 	"#242424",	/* dark gray */
 	"#8585de",	/* light blue */
-	/* berserk: 265, 264 */
-	"#202020",	// dark gray
-	"#e0e0e0",	// light grey		
+	/* berserk:	265, 264	*/
+	"#202020",	// tamno siva 
+	"#e0e0e0",	// svetlo siva
+	/* sphynx: 	267, 266	*/
+	"#2c060f",	// bordo 
+	"#af8c4d",	// zlatna
 };
 
 
@@ -143,8 +146,8 @@ static const char *colorname[] = {
  * Default colors (colorname index)
  * foreground, background, cursor, reverse cursor
  */
-unsigned int defaultfg = 265;
-unsigned int defaultbg = 264;
+unsigned int defaultfg = 267;
+unsigned int defaultbg = 266;
 unsigned int defaultcs = 256;
 static unsigned int defaultrcs = 257;
 
