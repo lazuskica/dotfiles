@@ -1,5 +1,4 @@
 #!/usr/bin/bash
-sleep 2
 
 volume=$(pamixer --get-volume)
 is_muted=$(pamixer --get-volume-human)

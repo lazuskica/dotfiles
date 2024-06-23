@@ -25,12 +25,12 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/lazar/Dropbox" added="2024-03-24T10:00:00.429116Z" modified="2024-06-23T07:03:32.741081Z" visited="2024-03-24T10:00:00.429117Z">
+  <bookmark href="file:///home/lazar/Dropbox" added="2024-03-24T10:00:00.429116Z" modified="2024-06-23T08:38:27.206188Z" visited="2024-03-24T10:00:00.429117Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-06-23T07:03:32.741079Z" count="132"/>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-06-23T08:38:27.206184Z" count="133"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -75,12 +75,12 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/lazar/Dropbox/faks" added="2024-03-24T10:22:41.347428Z" modified="2024-06-23T06:01:04.078247Z" visited="2024-03-24T10:22:41.347429Z">
+  <bookmark href="file:///home/lazar/Dropbox/faks" added="2024-03-24T10:22:41.347428Z" modified="2024-06-23T08:38:28.847687Z" visited="2024-03-24T10:22:41.347429Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-06-23T06:01:04.078243Z" count="28"/>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-06-23T08:38:28.847685Z" count="29"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -276,16 +276,6 @@
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
           <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-06-12T15:27:40.458305Z" count="2"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/lazar/Code/webots_projects/project_01/controllers/cpp_controller" added="2024-05-23T08:27:56.978160Z" modified="2024-05-23T08:27:56.978168Z" visited="2024-05-23T08:27:56.978162Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="inode/directory"/>
-        <bookmark:applications>
-          <bookmark:application name="electron" exec="&apos;electron %u&apos;" modified="2024-05-23T08:27:56.978164Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -979,23 +969,23 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/lazar/Dropbox/faks/is/%D0%98%D0%BD%D1%82%D0%B5%D0%BB%D0%B8%D0%B3%D0%B5%D0%BD%D1%82%D0%BD%D0%B8%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B8.pdf" added="2024-06-22T16:59:12.840172Z" modified="2024-06-23T06:01:07.405285Z" visited="2024-06-22T16:59:12.840173Z">
+  <bookmark href="file:///home/lazar/Dropbox/faks/is/%D0%98%D0%BD%D1%82%D0%B5%D0%BB%D0%B8%D0%B3%D0%B5%D0%BD%D1%82%D0%BD%D0%B8%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B8.pdf" added="2024-06-22T16:59:12.840172Z" modified="2024-06-23T08:38:33.004166Z" visited="2024-06-22T16:59:12.840173Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="application/pdf"/>
         <bookmark:applications>
-          <bookmark:application name="Atril Document Viewer" exec="&apos;atril %u&apos;" modified="2024-06-23T06:01:07.405283Z" count="2"/>
-          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-06-23T06:01:06.896084Z" count="1"/>
+          <bookmark:application name="Atril Document Viewer" exec="&apos;atril %u&apos;" modified="2024-06-23T08:38:33.004162Z" count="3"/>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-06-23T08:38:32.045237Z" count="2"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/lazar/Dropbox/faks/is" added="2024-06-23T06:01:04.962929Z" modified="2024-06-23T06:01:04.962935Z" visited="2024-06-23T06:01:04.962930Z">
+  <bookmark href="file:///home/lazar/Dropbox/faks/is" added="2024-06-23T06:01:04.962929Z" modified="2024-06-23T08:38:29.647547Z" visited="2024-06-23T06:01:04.962930Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-06-23T06:01:04.962932Z" count="1"/>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-06-23T08:38:29.647543Z" count="2"/>
         </bookmark:applications>
       </metadata>
     </info>
