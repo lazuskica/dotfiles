@@ -15,12 +15,12 @@ static const int systraypinningfailfirst = 1;   /* 1: if pinning fails, display 
 static const int showsystray             = 1;   /* 0 means no systray */
 static const char *fonts[]          = { "BitstromWera Nerd Font:size=11" };
 static const char dmenufont[]       = "BitstromWera Nerd Font:size=11";
-static const char dmenu_w[]	= "400";
+static const char dmenu_w[]	= "264";
 static const char dmenu_y[]	= "32";
-static const char dmenu_x[]	= "760";
-static const char col_1[]       = "#2c060f";
-static const char col_2[]       = "#af8c4d";
-static const unsigned int baralpha = 0xa4;
+static const char dmenu_x[]	= "828";
+static const char col_1[]       = "#1c1b17";
+static const char col_2[]       = "#bb914c";
+static const unsigned int baralpha = 0x84;
 static const unsigned int borderalpha = OPAQUE;
 static const char *colors[][3]      = {
 	/*               fg         bg         border   */
@@ -30,7 +30,7 @@ static const char *colors[][3]      = {
 static const unsigned int alphas[][3]      = {
 	/*               fg      bg        border     */
 	[SchemeNorm] = { OPAQUE, baralpha, borderalpha },
-	[SchemeSel]  = { OPAQUE, baralpha, borderalpha },
+	[SchemeSel]  = { baralpha, baralpha, borderalpha },
 };
 
 /* tagging */
@@ -53,7 +53,7 @@ static const Rule rules[] = {
 };
 
 /* layout(s) */
-static const float mfact     = 0.64; /* factor of master area size [0.05..0.95] */
+static const float mfact     = 0.56; /* factor of master area size [0.05..0.95] */
 static const int nmaster     = 1;    /* number of clients in master area */
 static const int resizehints = 0;    /* 1 means respect size hints in tiled resizals */
 static const int lockfullscreen = 1; /* 1 will force focus on the fullscreen window */
@@ -117,7 +117,7 @@ static const Key keys[] = {
  	TAGKEYS(                        XK_7,                      6)
  	TAGKEYS(                        XK_8,                      7)
 	TAGKEYS(			XK_9,			   8)
-	{ MODKEY|ShiftMask,             XK_Escape,      quit,           {0} },
+	{ MODKEY|ShiftMask,             XK_Escape,      quitprompt,           {0} },
 };
 
 /* button definitions */

@@ -2,14 +2,14 @@
 /* Default settings; can be overriden by command line. */
 
 static int topbar = 1;                      /* -b  option; if 0, dmenu appears at bottom     */
-static const unsigned int alpha = 0x92;     /* Amount of opacity. 0xff is opaque             */
+static const unsigned int alpha = 0x84;     /* Amount of opacity. 0xff is opaque             */
 /* -fn option overrides fonts[0]; default X11 font or font set */
 static const char *fonts[] = {
 	"BitstromWera Nerd Font:size=12"
 };
 static const char *prompt      = NULL;      /* -p  option; prompt to the left of input field */
-char c1[8] = "#2c060f";
-char c2[8] = "#af8c4d";
+char c2[8] = "#1c1b17";
+char c1[8] = "#bb914c";
 static const char *colors[SchemeLast][2] = {
 	/*		    	fg	bg    */
 	[SchemeNorm] = { 	c1, 	c2 },
@@ -18,12 +18,12 @@ static const char *colors[SchemeLast][2] = {
 };
 
 static const unsigned int alphas[SchemeLast][2] = {
-	[SchemeNorm] = { OPAQUE, alpha },
-	[SchemeSel] = { OPAQUE, alpha },
-	[SchemeOut] = { OPAQUE, alpha },
+	[SchemeNorm] = { alpha, alpha },
+	[SchemeSel] = { alpha, alpha },
+	[SchemeOut] = { alpha, alpha },
 };
 /* -l option; if nonzero, dmenu uses vertical list with given number of lines */
-static unsigned int lines      = 12;
+static unsigned int lines      = 5;
 
 /*
  * Characters not considered part of a word while deleting words

@@ -1,5 +1,3 @@
-shell tar -cf dwm.tar dwm
-shell patch -p1 -R dwm-blanktags-20210406-67d76bd.diff
 shell patch -p1 -R < dwm-blanktags-20210406-67d76bd.diff
 shell patch -p1 < dwm-activetagindicatorbar-6.2.diff
 rename blocks.h
@@ -48,3 +46,5 @@ search .config
 search brave
 search ferdium
 search Ferdium
+shell mkdir
+shell mkdir backup
